@@ -1,0 +1,35 @@
+{
+  "name": "nf-static-text",
+  "version": "1.1.1",
+  "description": "Static text field",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "author": {
+    "name": "New by Sigma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-native": "^0.31.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-native": "^1.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "webpack": "^1.13.2",
+    "webpack-node-externals": "^1.3.3"
+  },
+  "gitHead": "42e08ef6f575a4c6b16d82b924211e29f6825705",
+  "readme": "ERROR: No README data found!",
+  "_id": "nf-static-text@1.1.1",
+  "_shasum": "f499b5e56e4e312bc3ce7641dcb2f2ca38c31c35",
+  "_from": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-static-text#master",
+  "_resolved": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-static-text#42e08ef6f575a4c6b16d82b924211e29f6825705"
+}

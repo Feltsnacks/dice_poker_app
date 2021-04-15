@@ -1,0 +1,52 @@
+{
+  "name": "@types/chokidar",
+  "version": "1.6.0",
+  "description": "TypeScript definitions for chokidar",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Stefan Steinhart",
+      "url": "https://github.com/reppners/"
+    },
+    {
+      "name": "Felix Becker",
+      "url": "https://github.com/felixfbecker/"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "742cc5302d05eff1d7ccae30c443a0cd41c9629312b892607b42c91e5ec55c2e",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/chokidar@1.6.0",
+  "dist": {
+    "shasum": "db1843360d548f267ef38a35f938fe22433c5287",
+    "tarball": "https://registry.npmjs.org/@types/chokidar/-/chokidar-1.6.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/chokidar-1.6.0.tgz_1490305398911_0.12381708808243275"
+  },
+  "directories": {},
+  "_shasum": "db1843360d548f267ef38a35f938fe22433c5287",
+  "_resolved": "https://registry.npmjs.org/@types/chokidar/-/chokidar-1.6.0.tgz",
+  "_from": "@types/chokidar@*",
+  "readme": "ERROR: No README data found!"
+}

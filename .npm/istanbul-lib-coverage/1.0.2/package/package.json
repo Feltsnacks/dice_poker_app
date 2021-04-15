@@ -1,0 +1,73 @@
+{
+  "name": "istanbul-lib-coverage",
+  "version": "1.0.2",
+  "description": "Data library for istanbul coverage objects",
+  "author": {
+    "name": "Krishnan Anantheswaran",
+    "email": "kananthmail-github@yahoo.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jshint index.js lib/ test/",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "jshint": "^2.8.0",
+    "mocha": "^3.2.0"
+  },
+  "karmaDeps": {
+    "browserify-istanbul": "^0.2.1",
+    "karma": "^0.13.10",
+    "karma-browserify": "^4.2.1",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.4.2",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/istanbuljs/istanbul-lib-coverage.git"
+  },
+  "keywords": [
+    "istanbul",
+    "coverage",
+    "data"
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/istanbuljs/istanbul-lib-coverage/issues"
+  },
+  "homepage": "https://github.com/istanbuljs/istanbul-lib-coverage",
+  "_id": "istanbul-lib-coverage@1.0.2",
+  "_shasum": "87a0c015b6910651cb3b184814dfb339337e25e1",
+  "_from": "istanbul-lib-coverage@>=1.0.2 <2.0.0",
+  "_npmVersion": "4.4.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "bcoe",
+    "email": "ben@npmjs.com"
+  },
+  "dist": {
+    "shasum": "87a0c015b6910651cb3b184814dfb339337e25e1",
+    "tarball": "https://registry.npmjs.org/istanbul-lib-coverage/-/istanbul-lib-coverage-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "bcoe",
+      "email": "ben@npmjs.com"
+    },
+    {
+      "name": "gotwarlost",
+      "email": "kananthmail-github@yahoo.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/istanbul-lib-coverage-1.0.2.tgz_1490593881228_0.5689495480619371"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/istanbul-lib-coverage/-/istanbul-lib-coverage-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}

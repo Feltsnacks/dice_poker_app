@@ -1,0 +1,50 @@
+{
+  "name": "magnus",
+  "version": "1.0.1",
+  "description": "javascript wrapper for AlchemyAPI ReST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/alchemyapi.git"
+  },
+  "keywords": [
+    "alchemy",
+    "api",
+    "rest"
+  ],
+  "author": {
+    "name": "Bryan Maynard",
+    "email": "bsgbryan@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/alchemyapi/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/alchemyapi",
+  "gitHead": "3aa83609e0f5af0a5b3850cbb251253df5cb5a8c",
+  "_id": "magnus@1.0.1",
+  "_shasum": "c567f8d92f308bba4aa79f533f4555d425414137",
+  "_from": "magnus@latest",
+  "_npmVersion": "2.1.6",
+  "_nodeVersion": "0.10.32",
+  "_npmUser": {
+    "name": "bsgbryan",
+    "email": "bsgbryan@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "bsgbryan",
+      "email": "bsgbryan@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "c567f8d92f308bba4aa79f533f4555d425414137",
+    "tarball": "https://registry.npmjs.org/magnus/-/magnus-1.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/magnus/-/magnus-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

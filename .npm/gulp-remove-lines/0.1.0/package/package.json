@@ -1,0 +1,62 @@
+{
+  "name": "gulp-remove-lines",
+  "version": "0.1.0",
+  "description": "A gulp plugin that will remove all lines that matches one of the given regex filters.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/relekang/gulp-remove-lines"
+  },
+  "author": {
+    "name": "Rolf Erik Lekang",
+    "email": "me@rolflekang.com",
+    "url": "http://rolflekang.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "remove",
+    "filter"
+  ],
+  "dependencies": {
+    "gulp-util": ">=2.2.0",
+    "event-stream": "~3.1.0"
+  },
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "*"
+  },
+  "_id": "gulp-remove-lines@0.1.0",
+  "dist": {
+    "shasum": "d7274d38c346efe5631e23f1de4d35b6426807d0",
+    "tarball": "http://registry.npmjs.org/gulp-remove-lines/-/gulp-remove-lines-0.1.0.tgz"
+  },
+  "_from": "gulp-remove-lines@~0.1.0",
+  "_npmVersion": "1.3.6",
+  "_npmUser": {
+    "name": "relekang",
+    "email": "me@rolflekang.com"
+  },
+  "maintainers": [
+    {
+      "name": "relekang",
+      "email": "me@rolflekang.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "d7274d38c346efe5631e23f1de4d35b6426807d0",
+  "_resolved": "https://registry.npmjs.org/gulp-remove-lines/-/gulp-remove-lines-0.1.0.tgz",
+  "bugs": {
+    "url": "https://github.com/relekang/gulp-remove-lines/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/relekang/gulp-remove-lines"
+}

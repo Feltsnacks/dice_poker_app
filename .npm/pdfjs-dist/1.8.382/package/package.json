@@ -1,0 +1,63 @@
+{
+  "name": "pdfjs-dist",
+  "version": "1.8.382",
+  "main": "build/pdf.js",
+  "description": "Generic build of Mozilla's PDF.js library.",
+  "keywords": [
+    "Mozilla",
+    "pdf",
+    "pdf.js"
+  ],
+  "homepage": "http://mozilla.github.io/pdf.js/",
+  "bugs": {
+    "url": "https://github.com/mozilla/pdf.js/issues"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-ensure": "^0.0.0",
+    "worker-loader": "^0.8.0"
+  },
+  "browser": {
+    "node-ensure": false
+  },
+  "format": "amd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla/pdfjs-dist.git"
+  },
+  "gitHead": "b6829d718c20c05cb2d47a4401e817dbf3196565",
+  "_id": "pdfjs-dist@1.8.382",
+  "scripts": {},
+  "_shasum": "21b5e13cac48c538bde53f12a8c994b7f919c046",
+  "_from": "pdfjs-dist@>=1.8.378 <2.0.0",
+  "_npmVersion": "4.1.2",
+  "_nodeVersion": "6.9.4",
+  "_npmUser": {
+    "name": "pdfjsbot",
+    "email": "dev-pdf-js@lists.mozilla.org"
+  },
+  "dist": {
+    "shasum": "21b5e13cac48c538bde53f12a8c994b7f919c046",
+    "tarball": "https://registry.npmjs.org/pdfjs-dist/-/pdfjs-dist-1.8.382.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "brendandahl",
+      "email": "brendan.dahl@gmail.com"
+    },
+    {
+      "name": "pdfjsbot",
+      "email": "dev-pdf-js@lists.mozilla.org"
+    },
+    {
+      "name": "yurydelendik",
+      "email": "ydelendik@mozilla.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/pdfjs-dist-1.8.382.tgz_1495577067792_0.5951321511529386"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pdfjs-dist/-/pdfjs-dist-1.8.382.tgz"
+}

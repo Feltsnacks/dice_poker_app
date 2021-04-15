@@ -1,0 +1,74 @@
+{
+  "name": "@compodoc/ngd-core",
+  "version": "2.0.0-alpha.3",
+  "description": "A core library for @compodoc/ngd",
+  "main": "dist/index.js",
+  "scripts": {
+    "prextest": "npm run compile:src && npm run compile:tests",
+    "xtest": "mocha --opts test/mocha.opts",
+    "compile:tests": "tsc -p test/tsconfig-test.json",
+    "compile:src": "tsc --newLine LF",
+    "prexpublish": "npm run compile:src && npm run xtest",
+    "deploy": "npm run compile:src && npm xpublish"
+  },
+  "homepage": "https://github.com/compodoc/ngd",
+  "bugs": {
+    "url": "https://github.com/compodoc/ngd/issues"
+  },
+  "author": {
+    "name": "Wassim CHEGHAM"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "contributors": [
+    {
+      "name": "vogloblinsky"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compodoc/ngd.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.4",
+    "@types/mocha": "^2.2.32",
+    "@types/node": "^8.0.24",
+    "chai": "^4.1.1",
+    "mocha": "^3.1.2"
+  },
+  "types": "dist/index.d.ts",
+  "_id": "@compodoc/ngd-core@2.0.0-alpha.3",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.3.0",
+  "_npmUser": {
+    "name": "compodoc",
+    "email": "compodoc.github@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-wZNC0HhZCu3KufvulriGfEayjmniEih25R3CvxIvEMVk4kCvVA6giLhYzKgIl0J9JC5KKYdXuu9SlVXr9Niyug==",
+    "shasum": "5fc28fe6b5dd13b176fdd6c8aff59692b5065745",
+    "tarball": "https://registry.npmjs.org/@compodoc/ngd-core/-/ngd-core-2.0.0-alpha.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "compodoc",
+      "email": "compodoc.github@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ngd-core-2.0.0-alpha.3.tgz_1503665150059_0.1934428915847093"
+  },
+  "directories": {},
+  "_shasum": "5fc28fe6b5dd13b176fdd6c8aff59692b5065745",
+  "_resolved": "https://registry.npmjs.org/@compodoc/ngd-core/-/ngd-core-2.0.0-alpha.3.tgz",
+  "_from": "@compodoc/ngd-core@>=2.0.0-alpha.1 <3.0.0",
+  "readme": "ERROR: No README data found!"
+}

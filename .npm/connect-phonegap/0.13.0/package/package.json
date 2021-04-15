@@ -1,0 +1,96 @@
+{
+  "name": "connect-phonegap",
+  "description": "Connect middleware to serve a PhoneGap app.",
+  "version": "0.13.0",
+  "homepage": "https://github.com/phonegap/connect-phonegap",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:phonegap/connect-phonegap.git"
+  },
+  "keywords": [
+    "connect",
+    "express",
+    "middleware",
+    "phonegap"
+  ],
+  "preferGlobal": "false",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jasmine-node --color spec"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "archiver": "0.10.1",
+    "connect": "2.12.0",
+    "connect-inject": "0.3.2",
+    "findit": "2.0.0",
+    "gaze": "0.4.3",
+    "home-dir": "0.1.2",
+    "ip": "0.3.1",
+    "localtunnel": "~1.3.0",
+    "mkpath": "0.1.0",
+    "ncp": "0.6.0",
+    "node-static": "0.7.0",
+    "request": "2.33.0",
+    "request-progress": "0.3.1",
+    "shelljs": "0.2.6",
+    "socket.io": "~1.0.4",
+    "tar": "0.1.19",
+    "useragent": "2.0.8"
+  },
+  "devDependencies": {
+    "chdir": "0.0.0",
+    "jasmine-node": "1.8.0",
+    "supertest": "0.13.0"
+  },
+  "contributors": [
+    {
+      "name": "Michael Brooks",
+      "email": "michael@michaelbrooks.ca",
+      "url": "http://michaelbrooks.ca/"
+    },
+    {
+      "name": "Tim Kim",
+      "email": "timk@adobe.com"
+    },
+    {
+      "name": "Jesse MacFadyen",
+      "url": "http://risingj.com"
+    },
+    {
+      "name": "Lorin Beer",
+      "email": "lorin.beer@gmail.com"
+    }
+  ],
+  "gitHead": "613b012293c789154deebbfa0f5ac55e5531f372",
+  "bugs": {
+    "url": "https://github.com/phonegap/connect-phonegap/issues"
+  },
+  "_id": "connect-phonegap@0.13.0",
+  "_shasum": "727fc7e7b4e14268e5d1be500e658176b3d2e6bb",
+  "_from": "connect-phonegap@0.13.0",
+  "_npmVersion": "1.4.15",
+  "_npmUser": {
+    "name": "mwbrooks",
+    "email": "michael@michaelbrooks.ca"
+  },
+  "maintainers": [
+    {
+      "name": "mwbrooks",
+      "email": "michael@michaelbrooks.ca"
+    },
+    {
+      "name": "timkim",
+      "email": "timk@adobe.com"
+    }
+  ],
+  "dist": {
+    "shasum": "727fc7e7b4e14268e5d1be500e658176b3d2e6bb",
+    "tarball": "http://registry.npmjs.org/connect-phonegap/-/connect-phonegap-0.13.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/connect-phonegap/-/connect-phonegap-0.13.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

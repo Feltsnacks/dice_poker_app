@@ -1,0 +1,70 @@
+{
+  "name": "react-native-gifted-messenger",
+  "version": "0.1.4",
+  "description": "Chat UI for iOS and Android React-Native apps",
+  "main": "GiftedMessenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaridSafi/react-native-gifted-messenger.git"
+  },
+  "author": {
+    "name": "Farid from Safi"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaridSafi/react-native-gifted-messenger/issues"
+  },
+  "keywords": [
+    "chat",
+    "message",
+    "messenger",
+    "react-component",
+    "react",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "homepage": "https://github.com/FaridSafi/react-native-gifted-messenger#readme",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "moment": "^2.10.6",
+    "react-native-button": "^1.5.0",
+    "react-native-gifted-spinner": "^0.0.4",
+    "react-native-parsed-text": "0.0.12"
+  },
+  "devDependencies": {
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-react": "^4.3.0",
+    "eslint-plugin-jsx-a11y": "^0.6.2"
+  },
+  "gitHead": "8a1d7c74ad1d1cbc30ee52dc57a18ac223dd993d",
+  "_id": "react-native-gifted-messenger@0.1.4",
+  "_shasum": "7a0dc26a3da891dd5a979e671d3403cfcb8605e1",
+  "_from": "react-native-gifted-messenger@>=0.1.4 <0.2.0",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.1.1",
+  "_npmUser": {
+    "name": "faridsafi",
+    "email": "farid+npm@senseful.fr"
+  },
+  "dist": {
+    "shasum": "7a0dc26a3da891dd5a979e671d3403cfcb8605e1",
+    "tarball": "https://registry.npmjs.org/react-native-gifted-messenger/-/react-native-gifted-messenger-0.1.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "faridsafi",
+      "email": "farid+npm@senseful.fr"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-gifted-messenger-0.1.4.tgz_1463066550235_0.36777213541790843"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-gifted-messenger/-/react-native-gifted-messenger-0.1.4.tgz"
+}

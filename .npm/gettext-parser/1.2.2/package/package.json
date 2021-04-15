@@ -1,0 +1,77 @@
+{
+  "name": "gettext-parser",
+  "description": "Parse and compile gettext po and mo files to/from json, nothing more, nothing less",
+  "version": "1.2.2",
+  "author": {
+    "name": "Andris Reinman"
+  },
+  "contributors": [
+    {
+      "name": "Sam Hauglustaine"
+    }
+  ],
+  "homepage": "http://github.com/smhg/gettext-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smhg/gettext-parser.git"
+  },
+  "scripts": {
+    "lint": "eslint lib/*.js test/*.js index.js",
+    "test": "mocha",
+    "preversion": "npm run lint && npm test",
+    "postversion": "git push && git push --tags"
+  },
+  "main": "./index",
+  "license": "MIT",
+  "dependencies": {
+    "encoding": "0.1.12"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "eslint": "3.13.1",
+    "eslint-config-standard": "6.2.1",
+    "eslint-plugin-promise": "3.4.0",
+    "eslint-plugin-standard": "2.0.1",
+    "mocha": "3.2.0"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "gettext",
+    "mo",
+    "po"
+  ],
+  "gitHead": "50f82e572d20a41868d6a7954d17443529d96f75",
+  "bugs": {
+    "url": "https://github.com/smhg/gettext-parser/issues"
+  },
+  "_id": "gettext-parser@1.2.2",
+  "_shasum": "1ef0da75c1e759ae3089c73efa4d19e40298748e",
+  "_from": "gettext-parser@1.2.2",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "6.9.4",
+  "_npmUser": {
+    "name": "smhg",
+    "email": "sam@strictlyphp.com"
+  },
+  "dist": {
+    "shasum": "1ef0da75c1e759ae3089c73efa4d19e40298748e",
+    "tarball": "https://registry.npmjs.org/gettext-parser/-/gettext-parser-1.2.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "andris",
+      "email": "andris@kreata.ee"
+    },
+    {
+      "name": "smhg",
+      "email": "sam@strictlyphp.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/gettext-parser-1.2.2.tgz_1484146119796_0.923111395444721"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gettext-parser/-/gettext-parser-1.2.2.tgz"
+}

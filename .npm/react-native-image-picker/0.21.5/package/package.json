@@ -1,0 +1,74 @@
+{
+  "name": "react-native-image-picker",
+  "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
+  "version": "0.21.5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcshilling/react-native-image-picker.git"
+  },
+  "nativePackage": true,
+  "author": {
+    "name": "Marc Shilling",
+    "url": "marcshilling"
+  },
+  "contributors": [
+    {
+      "name": "Matheus Santos",
+      "email": "vorj.dux@gmail.com"
+    },
+    {
+      "name": "Yoann Fuks",
+      "email": "yfuks@student.42.fr"
+    }
+  ],
+  "keywords": [
+    "react-native",
+    "react-native-image-picker",
+    "react",
+    "native",
+    "image",
+    "picker"
+  ],
+  "scripts": {
+    "prepublish": "rm -rf android/build"
+  },
+  "gitHead": "a942bab4027b160627a79536be9a97ac21a29fc4",
+  "bugs": {
+    "url": "https://github.com/marcshilling/react-native-image-picker/issues"
+  },
+  "homepage": "https://github.com/marcshilling/react-native-image-picker#readme",
+  "_id": "react-native-image-picker@0.21.5",
+  "_shasum": "e65ae041fae9a0ed4a308d10e7c6a45574df3f72",
+  "_from": "react-native-image-picker@>=0.21.5 <0.22.0",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "name": "marcshilling",
+    "email": "marcshilling@gmail.com"
+  },
+  "dist": {
+    "shasum": "e65ae041fae9a0ed4a308d10e7c6a45574df3f72",
+    "tarball": "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-0.21.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "marcshilling",
+      "email": "marcshilling@gmail.com"
+    },
+    {
+      "name": "vorjdux",
+      "email": "vorj.dux@gmail.com"
+    },
+    {
+      "name": "yfuks",
+      "email": "yoannfuks@hotmail.fr"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-image-picker-0.21.5.tgz_1470336481578_0.352420971961692"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-image-picker/-/react-native-image-picker-0.21.5.tgz"
+}

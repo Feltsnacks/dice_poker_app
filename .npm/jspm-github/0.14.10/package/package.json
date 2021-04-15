@@ -1,0 +1,60 @@
+{
+  "name": "jspm-github",
+  "version": "0.14.10",
+  "description": "jspm GitHub endpoint",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jspm/github.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jspm/github/issues"
+  },
+  "dependencies": {
+    "expand-tilde": "^1.2.0",
+    "bluebird": "^3.0.5",
+    "graceful-fs": "^4.1.3",
+    "mkdirp": "~0.5.0",
+    "netrc": "^0.1.3",
+    "request": "~2.53.0",
+    "rimraf": "~2.3.2",
+    "semver": "^5.0.1",
+    "tar-fs": "^1.13.0",
+    "which": "^1.0.9"
+  },
+  "homepage": "https://github.com/jspm/github",
+  "devDependencies": {
+    "mocha": "~2.2.4"
+  },
+  "gitHead": "090d3316cd0c16ec4c24365de60e08472b585628",
+  "_id": "jspm-github@0.14.10",
+  "_shasum": "a94ee9384f821c894e53176b28199a4d392e00fb",
+  "_from": "jspm-github@>=0.14.10 <0.15.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.3.1",
+  "_npmUser": {
+    "name": "guybedford",
+    "email": "guybedford@gmail.com"
+  },
+  "dist": {
+    "shasum": "a94ee9384f821c894e53176b28199a4d392e00fb",
+    "tarball": "https://registry.npmjs.org/jspm-github/-/jspm-github-0.14.10.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "guybedford",
+      "email": "guybedford@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jspm-github-0.14.10.tgz_1471803287285_0.7470519226044416"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jspm-github/-/jspm-github-0.14.10.tgz"
+}

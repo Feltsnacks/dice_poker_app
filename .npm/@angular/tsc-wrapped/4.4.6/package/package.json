@@ -1,0 +1,57 @@
+{
+  "name": "@angular/tsc-wrapped",
+  "version": "4.4.6",
+  "description": "Wraps the tsc CLI, allowing extensions.",
+  "homepage": "https://github.com/angular/angular/blob/master/tools/@angular/tsc-wrapped",
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "contributors": [
+    {
+      "name": "Alex Eagle",
+      "email": "alexeagle@google.com"
+    },
+    {
+      "name": "Chuck Jazdzewski",
+      "email": "chuckj@google.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "dependencies": {
+    "tsickle": "^0.21.0"
+  },
+  "peerDependencies": {
+    "typescript": "^2.1.5"
+  },
+  "_id": "@angular/tsc-wrapped@4.4.6",
+  "scripts": {},
+  "_shasum": "16787cbbf50bdc7e738123b19c32527f244e178d",
+  "_from": "@angular/tsc-wrapped@4.4.6",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "16787cbbf50bdc7e738123b19c32527f244e178d",
+    "tarball": "https://registry.npmjs.org/@angular/tsc-wrapped/-/tsc-wrapped-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/tsc-wrapped-4.4.6.tgz_1508372327655_0.4704365525394678"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@angular/tsc-wrapped/-/tsc-wrapped-4.4.6.tgz",
+  "readme": "ERROR: No README data found!"
+}

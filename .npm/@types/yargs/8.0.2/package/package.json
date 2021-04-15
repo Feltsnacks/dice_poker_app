@@ -1,0 +1,59 @@
+{
+  "name": "@types/yargs",
+  "version": "8.0.2",
+  "description": "TypeScript definitions for yargs",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Martin Poelstra",
+      "url": "https://github.com/poelstra"
+    },
+    {
+      "name": "Mizunashi Mana",
+      "url": "https://github.com/mizunashi-mana"
+    },
+    {
+      "name": "Jeffery Grajkowski",
+      "url": "https://github.com/pushplay"
+    },
+    {
+      "name": "Jeff Kenney",
+      "url": "https://github.com/jeffkenney"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "typesPublisherContentHash": "b037ce9187ffa3e8ad3713f0e68c16c3d5a45863794058d4a279a4a45351648c",
+  "typeScriptVersion": "2.2",
+  "_id": "@types/yargs@8.0.2",
+  "dist": {
+    "integrity": "sha512-Upj9YsBZRgjEVPvsaeGru48d2JiyzBNZkmkebHyoaQ+UM9wqj/rp5mkilRjSq/Ga45yfd/zwrNuML9f2gGfVpw==",
+    "shasum": "0f9c7b236e2d78cd8f4b6502de15d0728aa29385",
+    "tarball": "https://registry.npmjs.org/@types/yargs/-/yargs-8.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/yargs-8.0.2.tgz_1501622422516_0.2728897363413125"
+  },
+  "directories": {},
+  "_shasum": "0f9c7b236e2d78cd8f4b6502de15d0728aa29385",
+  "_resolved": "https://registry.npmjs.org/@types/yargs/-/yargs-8.0.2.tgz",
+  "_from": "@types/yargs@>=8.0.2 <9.0.0",
+  "readme": "ERROR: No README data found!"
+}

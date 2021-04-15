@@ -1,0 +1,89 @@
+{
+  "name": "conf",
+  "version": "1.4.0",
+  "description": "Simple config handling for your app or module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/conf.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "config",
+    "store",
+    "app",
+    "storage",
+    "conf",
+    "configuration",
+    "settings",
+    "preferences",
+    "json",
+    "data",
+    "persist",
+    "persistent",
+    "save",
+    "load",
+    "read",
+    "write",
+    "cache"
+  ],
+  "dependencies": {
+    "dot-prop": "^4.1.0",
+    "env-paths": "^1.0.0",
+    "make-dir": "^1.0.0",
+    "pkg-up": "^2.0.0",
+    "write-file-atomic": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "clear-module": "^2.1.0",
+    "del": "^3.0.0",
+    "tempy": "^0.2.1",
+    "xo": "*"
+  },
+  "gitHead": "0e5558aae52e5b0420846520e163bcec7731e07e",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/conf/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/conf#readme",
+  "_id": "conf@1.4.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.9.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-bzlVWS2THbMetHqXKB8ypsXN4DQ/1qopGwNJi1eYbpwesJcd86FBjFciCQX/YwAhp9bM7NVnPFqZ5LpV7gP0Dg==",
+    "shasum": "1ea66c9d7a9b601674a5bb9d2b8dc3c726625e67",
+    "tarball": "https://registry.npmjs.org/conf/-/conf-1.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/conf-1.4.0.tgz_1515088299723_0.8506107989232987"
+  },
+  "directories": {},
+  "_shasum": "1ea66c9d7a9b601674a5bb9d2b8dc3c726625e67",
+  "_resolved": "https://registry.npmjs.org/conf/-/conf-1.4.0.tgz",
+  "_from": "conf@>=1.3.1 <2.0.0",
+  "readme": "ERROR: No README data found!"
+}

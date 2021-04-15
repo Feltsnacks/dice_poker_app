@@ -1,0 +1,79 @@
+{
+  "name": "postcss-url",
+  "version": "7.3.0",
+  "description": "PostCSS plugin to rebase or inline on url().",
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin",
+    "url",
+    "rebase",
+    "inline",
+    "base64",
+    "assets"
+  ],
+  "author": {
+    "name": "Maxime Thirouin"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcss/postcss-url.git"
+  },
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "mime": "^1.4.1",
+    "minimatch": "^3.0.4",
+    "mkdirp": "^0.5.0",
+    "postcss": "^6.0.1",
+    "xxhashjs": "^0.2.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.16.1",
+    "mocha": "^3.2.0",
+    "npmpub": "^3.0.1",
+    "postcss-import": "^10.0.0"
+  },
+  "scripts": {
+    "lint": "eslint --fix .",
+    "tests": "mocha",
+    "test": "npm run lint && npm run tests",
+    "release": "npmpub"
+  },
+  "gitHead": "953ba4b0c70d86131c2c682c9b9e59e2103c177b",
+  "bugs": {
+    "url": "https://github.com/postcss/postcss-url/issues"
+  },
+  "homepage": "https://github.com/postcss/postcss-url#readme",
+  "_id": "postcss-url@7.3.0",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.4.0",
+  "_npmUser": {
+    "name": "sergcen",
+    "email": "sergcen@mail.ru"
+  },
+  "dist": {
+    "integrity": "sha512-VBP6uf6iL3AZra23nkPkOEkS/5azj1xf/toRrjfkolfFEgg9Gyzg9UhJZeIsz12EGKZTNVeGbPa2XtaZm/iZvg==",
+    "shasum": "cf2f45e06743cf43cfea25309f81cbc003dc783f",
+    "tarball": "https://registry.npmjs.org/postcss-url/-/postcss-url-7.3.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sergcen",
+      "email": "sergcen@mail.ru"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/postcss-url-7.3.0.tgz_1511646774862_0.19256188138388097"
+  },
+  "directories": {},
+  "_shasum": "cf2f45e06743cf43cfea25309f81cbc003dc783f",
+  "_resolved": "https://registry.npmjs.org/postcss-url/-/postcss-url-7.3.0.tgz",
+  "_from": "postcss-url@>=7.1.2 <8.0.0",
+  "readme": "ERROR: No README data found!"
+}

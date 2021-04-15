@@ -1,0 +1,87 @@
+{
+  "name": "jshashes",
+  "description": "A fast and independent hashing library pure JavaScript implemented (ES3 compliant) for both server and client side (MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC and Base64)",
+  "version": "1.0.7",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h2non/jshashes.git"
+  },
+  "author": {
+    "name": "Tomas Aparicio",
+    "email": "tomas@aparicio.me"
+  },
+  "contributors": [
+    {
+      "name": "C. Scott Ananian",
+      "email": "cscott@cscott.net",
+      "url": "http://cscott.net"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "main": "hashes",
+  "bin": {
+    "hashes": "./bin/hashes"
+  },
+  "licenses": [
+    {
+      "type": "New BSD",
+      "url": "http://github.com/h2non/jshashes/raw/master/LICENSE"
+    }
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "uglify-js": "~2.4.13"
+  },
+  "keywords": [
+    "hash",
+    "md5",
+    "sha1",
+    "sha256",
+    "hashes",
+    "sha512",
+    "RIPEMD",
+    "base64",
+    "hmac",
+    "crc",
+    "encoding",
+    "algorithm"
+  ],
+  "gitHead": "88625b6c841ca3c90f8b9fefb0fedb78992017ad",
+  "bugs": {
+    "url": "https://github.com/h2non/jshashes/issues"
+  },
+  "homepage": "https://github.com/h2non/jshashes#readme",
+  "_id": "jshashes@1.0.7",
+  "_shasum": "bed8c97a0e9632fd0513916f55f76dd5486be59f",
+  "_from": "jshashes@>=1.0.5 <2.0.0",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "7.1.0",
+  "_npmUser": {
+    "name": "h2non",
+    "email": "tomas@aparicio.me"
+  },
+  "dist": {
+    "shasum": "bed8c97a0e9632fd0513916f55f76dd5486be59f",
+    "tarball": "https://registry.npmjs.org/jshashes/-/jshashes-1.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "h2non",
+      "email": "tomas@rijndael-project.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/jshashes-1.0.7.tgz_1499256095605_0.7968260399065912"
+  },
+  "_resolved": "https://registry.npmjs.org/jshashes/-/jshashes-1.0.7.tgz",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/sigma-gulp-tasks
+	fetch = +refs/*:refs/*
+	mirror = true

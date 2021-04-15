@@ -1,0 +1,54 @@
+{
+  "name": "ace-builds",
+  "main": "./src-noconflict/ace.js",
+  "typings": "ace.d.ts",
+  "version": "1.4.1",
+  "description": "Ace (Ajax.org Cloud9 Editor)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaxorg/ace-builds.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ajaxorg/ace-builds/issues"
+  },
+  "homepage": "https://github.com/ajaxorg/ace-builds",
+  "gitHead": "8a271c3dae5267e4a124f378d940f221cc7b3dab",
+  "_id": "ace-builds@1.4.1",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.1.2",
+  "_npmUser": {
+    "name": "nightwing",
+    "email": "amirjanyan@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-ulsfTOi/oAXBIt9hYlK4asyFZYsFOOUAbwBZidbjWWJycRX4LtwIithMyndcnoQ4PavkZ0iGJ+c9nqHNiYbubA==",
+    "shasum": "a66e33bcd519918ee99bc54cac5d7399a83c8ff2",
+    "tarball": "https://registry.npmjs.org/ace-builds/-/ace-builds-1.4.1.tgz",
+    "fileCount": 1563,
+    "unpackedSize": 43350293,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbafuaCRA9TVsSAnZWagAASxwQAIXcABjEGpwEtN6eSRE6\n5b9kAARx4tvYeU631lao+CHT/e3h5Px284pNThNanLU0LrM95R4oXosbbSy/\n9updsClRRkvwi6iOixOyBZPLSLNjYj9tC4VxEogaSV6IBy91nSnBzFUjRWKz\nuF9pGiE5TVTTW6CytowdjniR81dTDJ7o9iQ87HaqfgcUlm1jdlDVuDzx42m3\nMITBw8KhlpcT9HQGVZtgZT70r8oOmT0R0JPLJ/baGdO6aoSPJhDo3iPAyiS2\n9+OXRAlU1c6T6ntXGB/ptGr+D6BdUNzcmj6aRQCbSvo8tkZ+ADTLHnbXeTR9\n3f2ncPe/1dw37U9KRnQFSasll1TJzmXM269TEuTQy8zdy3/1bF3s5Yoh56Ts\newn34kojCa2mmYXbLBG5d7qvQOQW7ibSceKrPrh3JLCZ+2Kx6in2mOGKVZnS\nkFXuAufyt47lzcHuKIjJPLcOnLiskqQsZIJz5CVq/dZRjWEUfKMtohiveTHW\nbig2/RzxrJJnM5s3pOn3kzXrih54ZiqD1nVw14dkHl+XVo/0zTInRrp1jZp1\nh6MADHRlUMNLL5RWUDCfFCcucsKSB8PIpJYtzIz2liISeiNx6xMU0tK6qjaC\nTb5q10IwryJ2jRjmKgYb93d2FId4qIfs6ZBQ3fPWquVX4ZZ9feiqNmJOm2dZ\nTG1D\r\n=s+cr\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "basicer",
+      "email": "npm@basicer.com"
+    },
+    {
+      "name": "nightwing",
+      "email": "amirjanyan@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ace-builds_1.4.1_1533672346117_0.3903706521901844"
+  },
+  "_shasum": "a66e33bcd519918ee99bc54cac5d7399a83c8ff2",
+  "_resolved": "https://registry.npmjs.org/ace-builds/-/ace-builds-1.4.1.tgz",
+  "_from": "ace-builds@>=1.4.1 <2.0.0"
+}

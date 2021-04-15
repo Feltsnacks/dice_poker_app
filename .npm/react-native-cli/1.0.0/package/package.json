@@ -1,0 +1,80 @@
+{
+  "name": "react-native-cli",
+  "version": "1.0.0",
+  "license": "BSD-3-Clause",
+  "description": "The React Native CLI tools",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react-native.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "react-native": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "minimist": "^1.2.0",
+    "prompt": "^0.2.14",
+    "semver": "^5.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/react-native/issues"
+  },
+  "homepage": "https://github.com/facebook/react-native#readme",
+  "_id": "react-native-cli@1.0.0",
+  "_shasum": "112d56c18b7324969d21282a240e3de8903aa963",
+  "_from": "react-native-cli@latest",
+  "_npmVersion": "2.15.5",
+  "_nodeVersion": "4.4.5",
+  "_npmUser": {
+    "name": "bestander",
+    "email": "bestander@gmail.com"
+  },
+  "dist": {
+    "shasum": "112d56c18b7324969d21282a240e3de8903aa963",
+    "tarball": "https://registry.npmjs.org/react-native-cli/-/react-native-cli-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "amasad",
+      "email": "amjad.masad@gmail.com"
+    },
+    {
+      "name": "bestander",
+      "email": "bestander@gmail.com"
+    },
+    {
+      "name": "fb",
+      "email": "opensource+npm@fb.com"
+    },
+    {
+      "name": "frantic",
+      "email": "alex.frantic@gmail.com"
+    },
+    {
+      "name": "mkonicek",
+      "email": "martin.konicek@gmail.com"
+    },
+    {
+      "name": "spicyj",
+      "email": "ben@benalpert.com"
+    },
+    {
+      "name": "vjeux",
+      "email": "vjeuxx@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-cli-1.0.0.tgz_1464957130165_0.2410504559520632"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-cli/-/react-native-cli-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

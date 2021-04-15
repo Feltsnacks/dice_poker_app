@@ -1,0 +1,63 @@
+{
+  "name": "@angular/flex-layout",
+  "version": "5.0.0-beta.14",
+  "description": "Angular Flex-Layout",
+  "main": "./bundles/flex-layout.umd.js",
+  "module": "./esm5/flex-layout.es5.js",
+  "es2015": "./esm2015/flex-layout.js",
+  "typings": "./flex-layout.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/flex-layout.git"
+  },
+  "keywords": [
+    "angular",
+    "flex-layout",
+    "flexbox css",
+    "media query",
+    "breakpoints"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/flex-layout/issues"
+  },
+  "homepage": "https://github.com/angular/flex-layout#readme",
+  "peerDependencies": {
+    "@angular/cdk": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/common": "^5.0.0",
+    "rxjs": "^5.5.0"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "gitHead": "e1b0efc0522267ed288e2141555c765b041fdc30",
+  "_id": "@angular/flex-layout@5.0.0-beta.14",
+  "_npmVersion": "5.7.1",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "angular",
+    "email": "devops+npm@angular.io"
+  },
+  "dist": {
+    "integrity": "sha512-/fsOqXFUKdCmzzZx0bZ0HCYwcV+BSbVuIgOhaCrZKHj2rqiWKKPgj1ErU3HMT68bBBGag0u0skTdLGtrBorRIA==",
+    "shasum": "300e1cba2ef1a70f43fe7ea68ea78267cb4241e4",
+    "tarball": "https://registry.npmjs.org/@angular/flex-layout/-/flex-layout-5.0.0-beta.14.tgz",
+    "fileCount": 285,
+    "unpackedSize": 2715730
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/flex-layout_5.0.0-beta.14_1522347110374_0.26188168528396294"
+  },
+  "_shasum": "300e1cba2ef1a70f43fe7ea68ea78267cb4241e4",
+  "_resolved": "https://registry.npmjs.org/@angular/flex-layout/-/flex-layout-5.0.0-beta.14.tgz",
+  "_from": "@angular/flex-layout@5.0.0-beta.14"
+}

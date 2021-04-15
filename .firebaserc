@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dice-poker-api": {
+      "hosting": {
+        "dice-poker-app": [
+          "dice-poker-api"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dice-poker-api"
+  }
+}

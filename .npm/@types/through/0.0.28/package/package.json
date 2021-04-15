@@ -1,0 +1,41 @@
+{
+  "name": "@types/through",
+  "version": "0.0.28",
+  "description": "TypeScript definitions for through",
+  "license": "MIT",
+  "author": "Andrew Gaspar <https://github.com/AndrewGaspar/>",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typings": "index.d.ts",
+  "typesPublisherContentHash": "c2864224c7787a3fcccd0dd29e54cb5e8f78e075f0d525aec1e95607a5abda49",
+  "_id": "@types/through@0.0.28",
+  "dist": {
+    "shasum": "1effa9a6d00fb48572b4cc9f44df25b0100db7fc",
+    "tarball": "https://registry.npmjs.org/@types/through/-/through-0.0.28.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/through-0.0.28.tgz_1474308960814_0.05522698420099914"
+  },
+  "directories": {},
+  "_shasum": "1effa9a6d00fb48572b4cc9f44df25b0100db7fc",
+  "_resolved": "https://registry.npmjs.org/@types/through/-/through-0.0.28.tgz",
+  "_from": "@types/through@0.0.28"
+}

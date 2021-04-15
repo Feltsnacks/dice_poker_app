@@ -1,0 +1,54 @@
+{
+  "name": "@angular/animations",
+  "version": "4.4.6",
+  "description": "Angular - animations integration with web-animationss",
+  "main": "./bundles/animations.umd.js",
+  "module": "./@angular/animations.es5.js",
+  "es2015": "./@angular/animations.js",
+  "typings": "./animations.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "4.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/animations@4.4.6",
+  "scripts": {},
+  "_shasum": "fa661899a8a4e38cb7c583c7a5c97ce65d592a35",
+  "_from": "@angular/animations@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/animations/-/animations-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "fa661899a8a4e38cb7c583c7a5c97ce65d592a35",
+    "tarball": "https://registry.npmjs.org/@angular/animations/-/animations-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/animations-4.4.6.tgz_1508372338929_0.6808346090838313"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

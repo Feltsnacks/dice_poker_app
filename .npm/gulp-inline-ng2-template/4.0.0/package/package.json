@@ -1,0 +1,80 @@
+{
+  "name": "gulp-inline-ng2-template",
+  "version": "4.0.0",
+  "description": "Gulp plugin to inline HTML and CSS into Angular 2 component views",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludohenin/gulp-inline-ng2-template.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-dev": "mocha -w"
+  },
+  "keywords": [
+    "angular2",
+    "template",
+    "styles",
+    "gulpplugin",
+    "browserify",
+    "typescript",
+    "es6",
+    "es5"
+  ],
+  "author": {
+    "name": "ludohenin",
+    "email": "ludovic.henin@yahoo.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "clone": "~1.0.2",
+    "es6-templates": "~0.2.2",
+    "extend": "~3.0.0",
+    "gulp-util": "~3.0.6",
+    "isarray": "0.0.1",
+    "through2": "~2.0.0"
+  },
+  "devDependencies": {
+    "color": "~0.10.1",
+    "jade": "^1.11.0",
+    "mocha": "~2.2.5",
+    "stylus": "^0.53.0",
+    "vinyl": "~0.5.1"
+  },
+  "gitHead": "ac4dff79f09ec726b0f37b54786a315f33c1a89c",
+  "bugs": {
+    "url": "https://github.com/ludohenin/gulp-inline-ng2-template/issues"
+  },
+  "homepage": "https://github.com/ludohenin/gulp-inline-ng2-template#readme",
+  "_id": "gulp-inline-ng2-template@4.0.0",
+  "_shasum": "a145f216f79a0da6c9c6b17bce47e199018cd838",
+  "_from": "gulp-inline-ng2-template@>=4.0.0 <5.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.4.0",
+  "_npmUser": {
+    "name": "ludohenin",
+    "email": "ludovic.henin@yahoo.com"
+  },
+  "dist": {
+    "shasum": "a145f216f79a0da6c9c6b17bce47e199018cd838",
+    "tarball": "https://registry.npmjs.org/gulp-inline-ng2-template/-/gulp-inline-ng2-template-4.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "ludohenin",
+      "email": "ludovic.henin@yahoo.com"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/gulp-inline-ng2-template-4.0.0.tgz_1478419157964_0.04708495526574552"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-inline-ng2-template/-/gulp-inline-ng2-template-4.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

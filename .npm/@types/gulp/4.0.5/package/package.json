@@ -1,0 +1,58 @@
+{
+  "name": "@types/gulp",
+  "version": "4.0.5",
+  "description": "TypeScript definitions for Gulp",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Drew Noakes",
+      "url": "https://drewnoakes.com"
+    },
+    {
+      "name": "Juan Arroyave",
+      "url": "http://jarroyave.co"
+    },
+    {
+      "name": "Giedrius Grabauskas",
+      "url": "https://github.com/GiedriusGrabauskas"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/vinyl-fs": "*",
+    "@types/chokidar": "*",
+    "@types/undertaker": "*"
+  },
+  "typesPublisherContentHash": "67c6b0be443deef92921204192e0f15d2ceb9a18723cf748ca9fec20a604f326",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp@4.0.5",
+  "dist": {
+    "integrity": "sha512-nx1QjPTiRpvLfYsZ7MBu7bT6Cm7tAXyLbY0xbdx2IEMxCK2v2urIhJMQZHW0iV1TskM71Xl6p2uRRuWDbk+/7g==",
+    "shasum": "f5f498d5bf9538364792de22490a12c0e6bc5eb4",
+    "tarball": "https://registry.npmjs.org/@types/gulp/-/gulp-4.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-4.0.5.tgz_1508890972796_0.14889611606486142"
+  },
+  "directories": {},
+  "_shasum": "f5f498d5bf9538364792de22490a12c0e6bc5eb4",
+  "_resolved": "https://registry.npmjs.org/@types/gulp/-/gulp-4.0.5.tgz",
+  "_from": "@types/gulp@>=4.0.4 <5.0.0",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,85 @@
+{
+  "name": "@ngx-rocket/scripts",
+  "version": "2.2.0",
+  "description": "Support scripts for ngX-Rocket projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-rocket/scripts.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "ngx-scripts": "./bin/ngx-scripts"
+  },
+  "scripts": {
+    "test": "eslint *.js",
+    "postpublish": "git tag -a $npm_package_version -m \"$npm_package_version\" && git push --tags"
+  },
+  "keywords": [
+    "ngx",
+    "rocket",
+    "angular",
+    "cli",
+    "enterprise",
+    "tool",
+    "support",
+    "scripts",
+    "project"
+  ],
+  "author": {
+    "name": "Yohan Lasorsa"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ngx-rocket/scripts",
+  "bugs": {
+    "url": "https://github.com/ngx-rocket/scripts/issues"
+  },
+  "dependencies": {
+    "@ngx-rocket/ascii-logo": "^1.1.0",
+    "chalk": "^2.3.2",
+    "fs-extra": "^5.0.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-xo-space": "^0.18.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space/esnext"
+  },
+  "gitHead": "fc1914d76d582ad1e7d1e10b2a877765ab906099",
+  "_id": "@ngx-rocket/scripts@2.2.0",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.9.0",
+  "_npmUser": {
+    "name": "sinedied",
+    "email": "noda@free.fr"
+  },
+  "dist": {
+    "integrity": "sha512-PCio9bRkLLN97mX7EK7q/5cYdNvVuas9SwmNd614eGIzbEy6+clq3m5ItPeYrGPN3XMMe74/yU/cRNscweySaA==",
+    "shasum": "805356366af35725109a450d82a2523be22653cd",
+    "tarball": "https://registry.npmjs.org/@ngx-rocket/scripts/-/scripts-2.2.0.tgz",
+    "fileCount": 8,
+    "unpackedSize": 17940
+  },
+  "maintainers": [
+    {
+      "email": "gaetanmaisse+npm@gmail.com",
+      "name": "gaetanmaisse"
+    },
+    {
+      "email": "noda@free.fr",
+      "name": "sinedied"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/scripts_2.2.0_1523114482206_0.358700763639886"
+  },
+  "_shasum": "805356366af35725109a450d82a2523be22653cd",
+  "_resolved": "https://registry.npmjs.org/@ngx-rocket/scripts/-/scripts-2.2.0.tgz",
+  "_from": "@ngx-rocket/scripts@>=2.2.0 <3.0.0"
+}

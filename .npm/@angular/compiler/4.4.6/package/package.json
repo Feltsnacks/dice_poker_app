@@ -1,0 +1,54 @@
+{
+  "name": "@angular/compiler",
+  "version": "4.4.6",
+  "description": "Angular - the compiler library",
+  "main": "./bundles/compiler.umd.js",
+  "module": "./@angular/compiler.es5.js",
+  "es2015": "./@angular/compiler.js",
+  "typings": "./compiler.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "4.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/compiler@4.4.6",
+  "scripts": {},
+  "_shasum": "2ee1faf25b757e1d128979074be7fae529b3bc20",
+  "_from": "@angular/compiler@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/compiler/-/compiler-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "2ee1faf25b757e1d128979074be7fae529b3bc20",
+    "tarball": "https://registry.npmjs.org/@angular/compiler/-/compiler-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/compiler-4.4.6.tgz_1508372347211_0.6657238877378404"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

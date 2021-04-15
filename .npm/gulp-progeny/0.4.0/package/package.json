@@ -1,0 +1,67 @@
+{
+  "name": "gulp-progeny",
+  "version": "0.4.0",
+  "description": "Gulp plugin for dependencies building",
+  "main": "dest/index.js",
+  "scripts": {
+    "prepublish": "gulp coffee",
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "keywords": [
+    "gulpplugin",
+    "dependencies",
+    "incremental building",
+    "compile"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "progeny": "^0.11.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.8.6",
+    "gulp-coffee": "^2.1.1",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "*"
+  },
+  "author": {
+    "name": "Herrington Darkholme"
+  },
+  "license": "Apache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerringtonDarkholme/gulp-progeny.git"
+  },
+  "homepage": "https://github.com/HerringtonDarkholme/gulp-progeny",
+  "bugs": {
+    "url": "https://github.com/HerringtonDarkholme/gulp-progeny/issues"
+  },
+  "gitHead": "6b1b168d9cb44efd8447af45cd910859b006e71c",
+  "_id": "gulp-progeny@0.4.0",
+  "_shasum": "9bb1b7f98f1b40d1c7ba0acd36c9703e066d14aa",
+  "_from": "gulp-progeny@>=0.4.0 <0.5.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.6.0",
+  "_npmUser": {
+    "name": "nonamesheep",
+    "email": "nonamesheep@qq.com"
+  },
+  "dist": {
+    "shasum": "9bb1b7f98f1b40d1c7ba0acd36c9703e066d14aa",
+    "tarball": "https://registry.npmjs.org/gulp-progeny/-/gulp-progeny-0.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nonamesheep",
+      "email": "nonamesheep1@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-progeny-0.4.0.tgz_1484185975828_0.25036132754758"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-progeny/-/gulp-progeny-0.4.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

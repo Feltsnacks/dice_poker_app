@@ -1,0 +1,36 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@6.2.0
+3 info using node@v10.8.0
+4 verbose config Skipping project config: /Users/MagNor/.npmrc. (matches userconfig)
+5 verbose run-script [ 'prestart', 'start', 'poststart' ]
+6 info lifecycle pwa@1.0.0~prestart: pwa@1.0.0
+7 info lifecycle pwa@1.0.0~start: pwa@1.0.0
+8 verbose lifecycle pwa@1.0.0~start: unsafe-perm in lifecycle true
+9 verbose lifecycle pwa@1.0.0~start: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/MagNor/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/git/bin:/Applications/IBM/Worklight-CLI:/Applications/IBM/MobileFirst-CLI:/Users/MagNor/android-sdk-macosx/tools:/Users/MagNor/android-sdk-macosx/platform-tools
+10 verbose lifecycle pwa@1.0.0~start: CWD: /Users/MagNor
+11 silly lifecycle pwa@1.0.0~start: Args: [ '-c',
+11 silly lifecycle   'npm run env -s && ng serve --aot --proxy-config proxy.conf.js' ]
+12 silly lifecycle pwa@1.0.0~start: Returned: code: 1  signal: null
+13 info lifecycle pwa@1.0.0~start: Failed to exec start script
+14 verbose stack Error: pwa@1.0.0 start: `npm run env -s && ng serve --aot --proxy-config proxy.conf.js`
+14 verbose stack Exit status 1
+14 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:304:16)
+14 verbose stack     at EventEmitter.emit (events.js:182:13)
+14 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+14 verbose stack     at ChildProcess.emit (events.js:182:13)
+14 verbose stack     at maybeClose (internal/child_process.js:962:16)
+14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:249:5)
+15 verbose pkgid pwa@1.0.0
+16 verbose cwd /Users/MagNor
+17 verbose Darwin 17.7.0
+18 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+19 verbose node v10.8.0
+20 verbose npm  v6.2.0
+21 error code ELIFECYCLE
+22 error errno 1
+23 error pwa@1.0.0 start: `npm run env -s && ng serve --aot --proxy-config proxy.conf.js`
+23 error Exit status 1
+24 error Failed at the pwa@1.0.0 start script.
+24 error This is probably not a problem with npm. There is likely additional logging output above.
+25 verbose exit [ 1, true ]

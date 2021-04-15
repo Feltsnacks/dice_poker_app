@@ -1,0 +1,60 @@
+{
+  "name": "@angular/platform-server",
+  "version": "4.4.6",
+  "description": "Angular - library for using Angular in Node.js",
+  "main": "./bundles/platform-server.umd.js",
+  "module": "./@angular/platform-server.es5.js",
+  "es2015": "./@angular/platform-server.js",
+  "typings": "./platform-server.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/animations": "4.4.6",
+    "@angular/core": "4.4.6",
+    "@angular/common": "4.4.6",
+    "@angular/compiler": "4.4.6",
+    "@angular/platform-browser": "4.4.6"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1",
+    "parse5": "^3.0.1",
+    "xhr2": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/platform-server@4.4.6",
+  "scripts": {},
+  "_shasum": "431248f4891a635c76ad15a17d03e9c87e1a3837",
+  "_from": "@angular/platform-server@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/platform-server/-/platform-server-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "431248f4891a635c76ad15a17d03e9c87e1a3837",
+    "tarball": "https://registry.npmjs.org/@angular/platform-server/-/platform-server-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/platform-server-4.4.6.tgz_1508372370339_0.4592764019034803"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

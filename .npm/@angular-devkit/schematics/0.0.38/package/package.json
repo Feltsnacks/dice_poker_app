@@ -1,0 +1,75 @@
+{
+  "name": "@angular-devkit/schematics",
+  "version": "0.0.38",
+  "description": "Angular Schematics - Library",
+  "bin": {
+    "schematics": "./bin/schematics.js"
+  },
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
+  "keywords": [
+    "angular",
+    "devkit",
+    "sdk",
+    "Angular DevKit",
+    "blueprints",
+    "scaffolding",
+    "template",
+    "tooling",
+    "code generation",
+    "schematics"
+  ],
+  "dependencies": {
+    "@angular-devkit/core": "0.0.22",
+    "@ngtools/json-schema": "^1.1.0",
+    "minimist": "^1.2.0",
+    "rxjs": "^5.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/devkit.git"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": {
+    "name": "Angular Authors"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/devkit/issues"
+  },
+  "homepage": "https://github.com/angular/devkit",
+  "_id": "@angular-devkit/schematics@0.0.38",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.8.1",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "integrity": "sha512-vvyn7p/t4EKLSONGIw9jot9iMM3lEvdMDfnLkgubznIiIFxH9I+aYw9BBV2AmwE7OASHrCRpwFf7K2EqJ0f9+A==",
+    "shasum": "b267141be27bb5dea4020b2bd6729db3629656ea",
+    "tarball": "https://registry.npmjs.org/@angular-devkit/schematics/-/schematics-0.0.38.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "angular-devkit",
+      "email": "hansl@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/schematics-0.0.38.tgz_1511991965453_0.6564679597504437"
+  },
+  "directories": {},
+  "_shasum": "b267141be27bb5dea4020b2bd6729db3629656ea",
+  "_resolved": "https://registry.npmjs.org/@angular-devkit/schematics/-/schematics-0.0.38.tgz",
+  "_from": "@angular-devkit/schematics@>=0.0.38 <0.1.0",
+  "readme": "ERROR: No README data found!"
+}

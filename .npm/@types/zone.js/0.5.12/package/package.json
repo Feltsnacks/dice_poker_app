@@ -1,0 +1,46 @@
+{
+  "name": "@types/zone.js",
+  "version": "0.5.12",
+  "typings": null,
+  "description": "Stub TypeScript definitions entry for Zone.js, which provides its own types definitions",
+  "main": "",
+  "scripts": {},
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/zone.js.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "zone.js": "*"
+  },
+  "_id": "@types/zone.js@0.5.12",
+  "dist": {
+    "shasum": "4101613a49defbef64fefdb3b809699fe08f68bc",
+    "tarball": "https://registry.npmjs.org/@types/zone.js/-/zone.js-0.5.12.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/zone.js-0.5.12.tgz_1492452177552_0.6388089642859995"
+  },
+  "directories": {},
+  "deprecated": "This is a stub types definition for Zone.js (https://github.com/angular/zone.js). Zone.js provides its own type definitions, so you don't need @types/zone.js installed!",
+  "_shasum": "4101613a49defbef64fefdb3b809699fe08f68bc",
+  "_resolved": "https://registry.npmjs.org/@types/zone.js/-/zone.js-0.5.12.tgz",
+  "_from": "@types/zone.js@>=0.5.12 <0.6.0",
+  "bugs": {
+    "url": "https://github.com/angular/zone.js/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/angular/zone.js#readme"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "@types/q",
+  "version": "0.0.34",
+  "description": "TypeScript definitions for Q",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Barrie Nemetchek",
+      "url": "https://github.com/bnemetchek"
+    },
+    {
+      "name": "Andrew Gaspar",
+      "url": "https://github.com/AndrewGaspar/"
+    },
+    {
+      "name": "John Reilly",
+      "url": "https://github.com/johnnyreilly"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "typesPublisherContentHash": "df9ee84987bd28a5133faf0f028162c7704955123f6544e2aec6647920bbcc32",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/q@0.0.34",
+  "dist": {
+    "shasum": "e5d3a54e7a56309d904cdf1dc34f61ac595fae2e",
+    "tarball": "https://registry.npmjs.org/@types/q/-/q-0.0.34.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/q-0.0.34.tgz_1489541556265_0.7057285429909825"
+  },
+  "directories": {},
+  "_shasum": "e5d3a54e7a56309d904cdf1dc34f61ac595fae2e",
+  "_resolved": "https://registry.npmjs.org/@types/q/-/q-0.0.34.tgz",
+  "_from": "@types/q@>=0.0.0 <1.0.0",
+  "readme": "ERROR: No README data found!"
+}

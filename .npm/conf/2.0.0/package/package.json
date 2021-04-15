@@ -1,0 +1,92 @@
+{
+  "name": "conf",
+  "version": "2.0.0",
+  "description": "Simple config handling for your app or module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/conf.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "config",
+    "store",
+    "app",
+    "storage",
+    "conf",
+    "configuration",
+    "settings",
+    "preferences",
+    "json",
+    "data",
+    "persist",
+    "persistent",
+    "save",
+    "load",
+    "read",
+    "write",
+    "cache"
+  ],
+  "dependencies": {
+    "dot-prop": "^4.1.0",
+    "env-paths": "^1.0.0",
+    "make-dir": "^1.0.0",
+    "pkg-up": "^2.0.0",
+    "write-file-atomic": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "clear-module": "^2.1.0",
+    "del": "^3.0.0",
+    "tempy": "^0.2.1",
+    "xo": "*"
+  },
+  "gitHead": "9ac8f2a979ae38c50d2476e96e6031d634c754ef",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/conf/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/conf#readme",
+  "_id": "conf@2.0.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "10.2.1",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-iCLzBsGFi8S73EANsEJZz0JnJ/e5VZef/kSaxydYZLAvw0rFNAUx5R7K5leC/CXXR2mZfXWhUvcZOO/dM2D5xg==",
+    "shasum": "43f7e282b32faca31f4d18bf279d6841ad657d5a",
+    "tarball": "https://registry.npmjs.org/conf/-/conf-2.0.0.tgz",
+    "fileCount": 4,
+    "unpackedSize": 12192,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbCnrsCRA9TVsSAnZWagAACvEP/2uXNX8yJdhSYC+ZIE79\nEcat3vuQ+9OrrwYevJDr2FB6aqtn5/S2NEZZqGwmIh963USY9IA4rkTl/Aoj\nEuHsbxwyPBjVWhX1pew5iRvzOKDbGD6kjNemvjMTsM2bs2egK7Q1mKPLwbi0\nzIH2aSQDTN6oNv4iQnfT7RFb17q7KMiPuMXoO12DoPKzDuRSwK2HssxL4r31\nHl1YeBkymlUyudLl91CettqaabCXwfLfbiMQzCuYE4J1xPZGUsqqRrX01wVn\nfxdo+T5D4ccxZ1IXRaSSWVMeta3YfhDpb8K7i36bf51+FF9Jumm/afLRnahK\nNQPpDyV0L2du4PiFgsbu87uGvjE7Tln7Th+AiuW6k6pAQCdgN7auYyzmSbyI\niFa0KghZ5Ymgsz5Xn+YW/WqdlSX9p/ShFZ7ULEJ+tSnCYAjzckM1qXXyede/\n9pviLDsQ3HLwpQ04poo+z0XT6iCfzIf0hPby4aF7/qpeAE6ui66qfsyBHo0b\niP9Likm7FWKSb68T99d8wgX94KqYsjeznTOkLnGrIzjWU6Z/AiysVfDNuuWK\n5VNF4BMMz2YPisWzoOHDL0e0szhs/X3CJjesWEHRvWPGCToK3X3ZkWSHZBuF\nTOgwIX7PcFCqVpWGupMXi6LWHghwZG6m6UKc4M/70gv4Az1dAbfkSYNTum50\nsyQi\r\n=fIYr\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/conf_2.0.0_1527413482833_0.6672240871672761"
+  },
+  "_shasum": "43f7e282b32faca31f4d18bf279d6841ad657d5a",
+  "_resolved": "https://registry.npmjs.org/conf/-/conf-2.0.0.tgz",
+  "_from": "conf@>=2.0.0 <3.0.0",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "@angular/router",
+  "version": "4.4.6",
+  "description": "Angular - the routing library",
+  "main": "./bundles/router.umd.js",
+  "module": "./@angular/router.es5.js",
+  "es2015": "./@angular/router.js",
+  "typings": "./router.d.ts",
+  "keywords": [
+    "angular",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular/tree/master/packages/router",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "4.4.6",
+    "@angular/common": "4.4.6",
+    "@angular/platform-browser": "4.4.6",
+    "rxjs": "^5.0.1"
+  },
+  "_id": "@angular/router@4.4.6",
+  "scripts": {},
+  "_shasum": "0f6ad29ae0ff8d2c9ea379bd320447217b7ec866",
+  "_from": "@angular/router@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/router/-/router-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "0f6ad29ae0ff8d2c9ea379bd320447217b7ec866",
+    "tarball": "https://registry.npmjs.org/@angular/router/-/router-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/router-4.4.6.tgz_1508372376238_0.34675138955935836"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

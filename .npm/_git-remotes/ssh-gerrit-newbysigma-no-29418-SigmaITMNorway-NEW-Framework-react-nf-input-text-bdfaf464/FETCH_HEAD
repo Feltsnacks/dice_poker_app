@@ -1,0 +1,336 @@
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6a79a60ea309a1de6e88709728d14e93153b9274	not-for-merge	'refs/changes/07/2707/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+5f94c0a3059098a2aa8275f5d060c2e7bc40bc4b	not-for-merge	'refs/changes/18/2718/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+28ed8b97e03b81191b183140745b3647007ece9b	not-for-merge	'refs/changes/22/2522/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+876caa92a7ff34083fdcdcd44b6f1dad79ca221f	not-for-merge	'refs/changes/22/2522/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e0b0934bcdf54837444f3147755eca6c8eb8d039	not-for-merge	'refs/changes/25/2525/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+2746d06edaa1decec63249724107c0e3c0991379	not-for-merge	'refs/changes/26/2526/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+14c4695cb71f817015dd6daee00c42d82e18d427	not-for-merge	'refs/changes/26/2526/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e2e03f1533835f7efa1ea8343bb555ef2d943e69	not-for-merge	'refs/changes/26/2526/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+edfd33fcd1a2d4e1d955b19ab90fc690bf3c535f	not-for-merge	'refs/changes/26/2526/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+bde44626ad9b983dde9532c01bc60dbcaecc0f58	not-for-merge	'refs/changes/33/2533/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+e72b18ed4885e767133575dea8443f2d40418f73	not-for-merge	'refs/changes/34/2734/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+c90eb290e12b4896b4fbabb28ce334a85af64a2d	not-for-merge	'refs/changes/34/2734/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1a196ab542b3531474c3225cab42005459a455bb	not-for-merge	'refs/changes/35/2735/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+1ebfcb1946b6b4686807a7f9ceeb88ec7284b979	not-for-merge	'refs/changes/39/2539/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+23d12f1c1a5a0e12b1a6cd26d2e1fd4e17bd016d	not-for-merge	'refs/changes/39/2539/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3d2cfb94ab8036221263d6356971b46d3946f564	not-for-merge	'refs/changes/54/2754/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	'refs/changes/55/2755/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+6e711901f2b643244b74611cf063926e8157a700	not-for-merge	branch 'feature/tests' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+80c15ba60a4f2324f03dd12de2f931392bc15b75	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+9ea79e3bb9737123808e850f000fb376efbaf482	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text
+3c196a96ecfa0faccb85bf1d560b4cbd66ce19d6	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-text

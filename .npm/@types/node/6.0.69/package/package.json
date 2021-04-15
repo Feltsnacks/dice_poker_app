@@ -1,0 +1,49 @@
+{
+  "name": "@types/node",
+  "version": "6.0.69",
+  "description": "TypeScript definitions for Node.js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Microsoft TypeScript",
+      "url": "http://typescriptlang.org"
+    },
+    {
+      "name": "DefinitelyTyped",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "typesPublisherContentHash": "b76b375b0e28713d60acde49a82565fb0ebe10fcd38c65687ee56e4a3b3613a1",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/node@6.0.69",
+  "dist": {
+    "shasum": "82d955985fcad2b95a72fcf5f8ea630d772535a7",
+    "tarball": "https://registry.npmjs.org/@types/node/-/node-6.0.69.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/node-6.0.69.tgz_1492453202961_0.28923932812176645"
+  },
+  "directories": {},
+  "_shasum": "82d955985fcad2b95a72fcf5f8ea630d772535a7",
+  "_resolved": "https://registry.npmjs.org/@types/node/-/node-6.0.69.tgz",
+  "_from": "@types/node@>=6.0.45 <7.0.0"
+}

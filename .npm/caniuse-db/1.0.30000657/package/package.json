@@ -1,0 +1,52 @@
+{
+  "name": "caniuse-db",
+  "version": "1.0.30000657",
+  "description": "Raw browser/feature support data from caniuse.com",
+  "keywords": [
+    "support",
+    "css",
+    "js",
+    "html5",
+    "svg"
+  ],
+  "author": {
+    "name": "Alexis Deveria",
+    "email": "adeveria@gmail.com"
+  },
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fyrd/caniuse.git"
+  },
+  "gitHead": "73361d7dda0f163a61bf23f8690decd7829a8721",
+  "bugs": {
+    "url": "https://github.com/Fyrd/caniuse/issues"
+  },
+  "homepage": "https://github.com/Fyrd/caniuse#readme",
+  "_id": "caniuse-db@1.0.30000657",
+  "scripts": {},
+  "_shasum": "8192aec745019cc050217ad049c60dad21e3d1bc",
+  "_from": "caniuse-db@>=1.0.30000634 <2.0.0",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.6.1",
+  "_npmUser": {
+    "name": "fyrd",
+    "email": "adeveria@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "fyrd",
+      "email": "adeveria@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8192aec745019cc050217ad049c60dad21e3d1bc",
+    "tarball": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30000657.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/caniuse-db-1.0.30000657.tgz_1492749998923_0.24505329807288945"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30000657.tgz"
+}

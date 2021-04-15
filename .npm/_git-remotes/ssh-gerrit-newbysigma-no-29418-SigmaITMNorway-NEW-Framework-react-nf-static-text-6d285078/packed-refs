@@ -1,0 +1,22 @@
+# pack-refs with: peeled fully-peeled 
+a55dde242454eee41ba4b252c190328a6744087f refs/changes/10/2510/1
+65ac4e49d8259e8a2713e685da27f50338c8e9ce refs/changes/12/2512/1
+ad4c71180763ea31f45270ed213d9485bffc9895 refs/changes/13/2513/1
+9eab0b1cf89170867a069b14b1306d614805d4c9 refs/changes/17/2517/1
+86f41d9f5004faa5ce9f24e15b7187edddb53d3c refs/changes/17/2517/2
+a667d5cc4def9696bdafc5b5638bfd5f1652b3fd refs/changes/20/2520/1
+6021159fb9e3361a545b8e3bff737d0eea363220 refs/changes/20/2720/1
+d756ab8d143d11d07cf36ba35a8859986e7a53c8 refs/changes/22/2622/1
+d0b098bbb9d303fad284654c1a3c71eecdb163fa refs/changes/22/2722/1
+9790890d569511a8f4acb1b64f53b3c033061e14 refs/changes/28/2528/1
+f506306f2bc5026e0bc4a0d57e56e752bdd38eb2 refs/changes/28/2528/2
+251f18b4febfa520ef302025574a95eb4a704063 refs/changes/30/2530/1
+42e08ef6f575a4c6b16d82b924211e29f6825705 refs/changes/52/2752/1
+be65fbd7a6779c479cdc0dba2dc853cd92acac02 refs/changes/91/2691/1
+97c6205bfc8fe833325fd3e2226ad0d19c326a6d refs/heads/feature/1.0.0_tb
+11d9b097c99ded1c007fc17464bbb2f281e39c18 refs/heads/feature/dep-test
+f3d1ef3df0934a004f34928dbd045ea246fb78ff refs/heads/feature/omg
+36b4be1217cc6946577a89becea7e1634526cefc refs/heads/feature/tests
+42e08ef6f575a4c6b16d82b924211e29f6825705 refs/heads/master
+810431e77e3b12266a7569b223e2beec4378e360 refs/meta/config
+6b28cf3bf19cee8e0c18606f0fbaccb0641ee962 refs/notes/review

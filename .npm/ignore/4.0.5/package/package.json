@@ -1,0 +1,97 @@
+{
+  "name": "ignore",
+  "version": "4.0.5",
+  "description": "Ignore is a manager and filter for .gitignore rules.",
+  "files": [
+    "legacy.js",
+    "index.js",
+    "index.d.ts",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "babel -o legacy.js index.js",
+    "test:lint": "eslint .",
+    "test:tsc": "tsc ./test/ts/simple.ts",
+    "test:git": "tap test/git-check-ignore.js",
+    "test:ignore": "tap test/ignore.js --coverage",
+    "test-no-cov": "npm run test:lint && npm run test:tsc && tap test/*.js --coverage",
+    "test": "npm run test-no-cov",
+    "posttest": "tap --coverage-report=html && codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaelzhang/node-ignore.git"
+  },
+  "keywords": [
+    "ignore",
+    ".gitignore",
+    "gitignore",
+    "npmignore",
+    "rules",
+    "manager",
+    "filter",
+    "regexp",
+    "regex",
+    "fnmatch",
+    "glob",
+    "asterisks",
+    "regular-expression"
+  ],
+  "author": {
+    "name": "kael"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaelzhang/node-ignore/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "codecov": "^3.0.2",
+    "eslint": "^5.0.0-rc.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "mkdirp": "^0.5.1",
+    "pre-suf": "^1.1.0",
+    "rimraf": "^2.6.2",
+    "spawn-sync": "^2.0.0",
+    "tap": "^12.0.1",
+    "tmp": "0.0.33",
+    "typescript": "^2.9.2"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "gitHead": "9ff8eebc0ace107072bee9ab86dd7ead04f903d1",
+  "homepage": "https://github.com/kaelzhang/node-ignore#readme",
+  "_id": "ignore@4.0.5",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "10.8.0",
+  "_npmUser": {
+    "name": "kael",
+    "email": "i@kael.me"
+  },
+  "dist": {
+    "integrity": "sha512-Q2daVnMtQJPacGrcCRyOEiI+syPCt+mR4YotoC0KEYeinV/6HztT5mUuVEj7UYyoNZ1jGYiu2XEem7I8oM44bg==",
+    "shasum": "333535a20325ba4852c4ddb135d47392aa035e6d",
+    "tarball": "https://registry.npmjs.org/ignore/-/ignore-4.0.5.tgz",
+    "fileCount": 7,
+    "unpackedSize": 37597,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJba9AiCRA9TVsSAnZWagAAAZUQAIR7YUW52nQN0I5Yx2Vk\nxDey86fnxAQAWELydgemSzkRkoQNrlVH6cdIwsR3S4p1Ta3N+3uPjjbdC4w4\nICI3ytZ69uFRdBMRT4OrUdZqnj/VSZaO/iFAuFeN6p2q4aZLroeAztteLmqb\nPiZC/JEhKlZSEHKP78JjI+ZZLWbWX3o84pJa5rBZvhQd9y9dGKBab+t4rQAZ\nL9WxEYbsuDK71wUEGus7p+1pWmaY2Lj2JzrShSn++nNpPp8G019wMldXBJgG\nWQwA7aBvduglYZZmahyA8gV1sE+uFIZrq8OQB8z5nca3nCkbQYIxUSQQHsli\n+30zYyUnr18sqgtgOFtpCY5Y+CutcwjsC7KeCxP0bob3zSyGWsy0JULQDFST\nScsgQzmaDR3pT5aqXsowUb9GIY24Ovk3qkCQysfp+lkQIdx5kHIfcAY0n4eY\n70emNtaTVi/cBU0C5XjlWYB0uyASM3wEW+MPZSZVlsuAu+0syCT+1754o3Ly\nHZ9CQ5ZqasTyqnY+vaaaYtNKe3oI2zDDAhHq/jNPNHn9c9IL0gL7t84aWFVD\n+biQMNiFsvtabr7UPyYgObQbk/qlzgxzjGFJI9wE8Uj1FdUfqGUJtrI91EUs\nG3sq3IQvrSOkfstqyCujNu9qoZZclfuVJ6b9NuifTwKLGqg44DUwc48J4E55\nQJT7\r\n=CMm3\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "kael",
+      "email": "i@kael.me"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ignore_4.0.5_1533792290302_0.7543634350902766"
+  },
+  "_shasum": "333535a20325ba4852c4ddb135d47392aa035e6d",
+  "_resolved": "https://registry.npmjs.org/ignore/-/ignore-4.0.5.tgz",
+  "_from": "ignore@>=4.0.0 <5.0.0"
+}

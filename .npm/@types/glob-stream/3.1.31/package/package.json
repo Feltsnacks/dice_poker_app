@@ -1,0 +1,49 @@
+{
+  "name": "@types/glob-stream",
+  "version": "3.1.31",
+  "description": "TypeScript definitions for glob-stream",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Bart van der Schoor",
+      "url": "https://github.com/Bartvds"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/glob": "*",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "e0a05740009cd6c109234768b5f10854c57cf3c2298e30211e60bc1b55b6d265",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/glob-stream@3.1.31",
+  "dist": {
+    "integrity": "sha512-UxdJkuoXh48URR4gJSAQAXSTeo98KTsEalJc+7wNmWrkK+8/z/V71tddUYzxtM/nlDJEKHW5Fbyh02KuHwlytg==",
+    "shasum": "015842260c01dab3b56578d8b37de2e57483d4ad",
+    "tarball": "https://registry.npmjs.org/@types/glob-stream/-/glob-stream-3.1.31.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/glob-stream-3.1.31.tgz_1503352355431_0.3991171824745834"
+  },
+  "directories": {},
+  "_shasum": "015842260c01dab3b56578d8b37de2e57483d4ad",
+  "_resolved": "https://registry.npmjs.org/@types/glob-stream/-/glob-stream-3.1.31.tgz",
+  "_from": "@types/glob-stream@*",
+  "readme": "ERROR: No README data found!"
+}

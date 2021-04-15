@@ -1,0 +1,70 @@
+{
+  "name": "grunt-eslint",
+  "version": "0.5.0",
+  "description": "Validate files with ESLint - A tool for identifying and reporting on patterns in JavaScript",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sindresorhus/grunt-eslint"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "files": [
+    "tasks"
+  ],
+  "keywords": [
+    "gruntplugin",
+    "lint",
+    "validate",
+    "report",
+    "jshint",
+    "jslint",
+    "ecmascript",
+    "esprima"
+  ],
+  "dependencies": {
+    "chalk": "^0.4.0",
+    "eslint": "^0.6.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "grunt-shell": "^0.7.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/grunt-eslint/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/grunt-eslint",
+  "_id": "grunt-eslint@0.5.0",
+  "_shasum": "4d4c29366e346572948a9afa5d95e8a14f934166",
+  "_from": "grunt-eslint@^0.5.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "4d4c29366e346572948a9afa5d95e8a14f934166",
+    "tarball": "http://registry.npmjs.org/grunt-eslint/-/grunt-eslint-0.5.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-eslint/-/grunt-eslint-0.5.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "hammer-timejs",
+  "title": "Hammer Time",
+  "description": "A fast click based on the touch-action css property",
+  "version": "1.1.0",
+  "author": {
+    "name": "Alex Schmitz",
+    "url": "AUTHORS.txt"
+  },
+  "homepage": "https://github.com/hammerjs/hammer-time",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hammerjs/hammer-time.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hammerjs/hammer-time/issues"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "keywords": [
+    "touch-action",
+    "touch",
+    "action",
+    "css",
+    "touchevents",
+    "events",
+    "pointerevents",
+    "pointer",
+    "click",
+    "delay",
+    "hammer"
+  ],
+  "main": "hammer-time.js",
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-compare-size": "0.4.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-uglify": "0.9.1",
+    "grunt-contrib-copy": "0.8.0",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-file-info": "1.0.8",
+    "grunt-html2md": "1.0.0",
+    "grunt-jscs": "1.8.0",
+    "load-grunt-config": "0.16.0"
+  },
+  "gitHead": "ea33d96ce728f2676ba01dc3ad6cdf01363aab80",
+  "_id": "hammer-timejs@1.1.0",
+  "scripts": {},
+  "_shasum": "fc07ec1e4012228fe51b6a51218ec12661a32a42",
+  "_from": "hammer-timejs@>=1.1.0 <2.0.0",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.1",
+  "_npmUser": {
+    "name": "arschmitz",
+    "email": "arschmitz@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "arschmitz",
+      "email": "arschmitz@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "fc07ec1e4012228fe51b6a51218ec12661a32a42",
+    "tarball": "https://registry.npmjs.org/hammer-timejs/-/hammer-timejs-1.1.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/hammer-timejs-1.1.0.tgz_1458044234200_0.5521462212782353"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hammer-timejs/-/hammer-timejs-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

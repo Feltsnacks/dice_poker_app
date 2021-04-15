@@ -1,0 +1,79 @@
+{
+  "name": "react-native-experimental-navigation",
+  "version": "0.26.10",
+  "description": "React Native ExperimentalNavigation clone",
+  "main": "NavigationExperimental",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksonov/react-native-experimental-navigation.git"
+  },
+  "keywords": [
+    "react-native",
+    "ExperimentalNavigation",
+    "navigation"
+  ],
+  "author": {
+    "name": "Pavlo Aksonov"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksonov/react-native-experimental-navigation/issues"
+  },
+  "homepage": "https://github.com/aksonov/react-native-experimental-navigation#readme",
+  "devDependencies": {
+    "babel-cli": "^6.8.0",
+    "clamp": "^1.0.1",
+    "fbjs": "^0.8.1",
+    "react-addons-pure-render-mixin": "^15.0.2",
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0",
+    "babel-preset-react-native": "^1.7.0"
+  },
+  "babel": {
+    "plugins": [
+      "syntax-flow",
+      "transform-flow-strip-types"
+    ],
+    "presets": [
+      "react-native"
+    ]
+  },
+  "dependencies": {
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0",
+    "babel-preset-react-native": "^1.9.0",
+    "clamp": "^1.0.1",
+    "fbjs": "^0.8.1",
+    "react-addons-pure-render-mixin": "^15.0.2"
+  },
+  "gitHead": "f8edc0e053ab45c1068377c4885da3e9090aaf09",
+  "_id": "react-native-experimental-navigation@0.26.10",
+  "_shasum": "355e37929a2bfb84088dca331f34bc575297df68",
+  "_from": "react-native-experimental-navigation@>=0.26.0 <0.27.0",
+  "_npmVersion": "3.5.3",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "aksonov",
+    "email": "pavlo.aksonov@gmail.com"
+  },
+  "dist": {
+    "shasum": "355e37929a2bfb84088dca331f34bc575297df68",
+    "tarball": "https://registry.npmjs.org/react-native-experimental-navigation/-/react-native-experimental-navigation-0.26.10.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "aksonov",
+      "email": "pavlo.aksonov@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-experimental-navigation-0.26.10.tgz_1473666046425_0.6150262032169849"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-experimental-navigation/-/react-native-experimental-navigation-0.26.10.tgz",
+  "readme": "ERROR: No README data found!"
+}

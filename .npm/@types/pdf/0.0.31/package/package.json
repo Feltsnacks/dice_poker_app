@@ -1,0 +1,39 @@
+{
+  "name": "@types/pdf",
+  "version": "0.0.31",
+  "description": "TypeScript definitions for PDF.js",
+  "license": "MIT",
+  "author": "Josh Baldwin <https://github.com/jbaldwin/>",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typings": "index.d.ts",
+  "typesPublisherContentHash": "d263e65689b2438bd12f2eb384daaf21513344ecca6f0ff7a2040189bc12022b",
+  "_id": "@types/pdf@0.0.31",
+  "dist": {
+    "shasum": "c0b210ce752fd59ad8331be5d4b55cf369141b93",
+    "tarball": "https://registry.npmjs.org/@types/pdf/-/pdf-0.0.31.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/pdf-0.0.31.tgz_1474308008221_0.09161790693178773"
+  },
+  "directories": {},
+  "_shasum": "c0b210ce752fd59ad8331be5d4b55cf369141b93",
+  "_resolved": "https://registry.npmjs.org/@types/pdf/-/pdf-0.0.31.tgz",
+  "_from": "@types/pdf@0.0.31"
+}

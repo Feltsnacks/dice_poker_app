@@ -1,0 +1,58 @@
+{
+  "name": "nanoid",
+  "version": "1.2.0",
+  "description": "A tiny (145 bytes), secure URL-friendly unique string ID generator",
+  "keywords": [
+    "uuid",
+    "random",
+    "id",
+    "url"
+  ],
+  "author": {
+    "name": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai/nanoid.git"
+  },
+  "browser": {
+    "./random.js": "./random.browser.js",
+    "./index.js": "./index.browser.js",
+    "./async.js": "./async.browser.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ai/nanoid/issues"
+  },
+  "homepage": "https://github.com/ai/nanoid#readme",
+  "_id": "nanoid@1.2.0",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "10.8.0",
+  "_npmUser": {
+    "name": "ai",
+    "email": "andrey@sitnik.ru"
+  },
+  "dist": {
+    "integrity": "sha512-rJvd0q5Bq375+jrMAJh8vZk+0Q4lnHyuqZL2fbrc9moYy4DCld5VSycYLXvwFHbbut1+UcjA+fm0bq4ADVBYQg==",
+    "shasum": "e2c4dfa45c2bed995d0214aae157ce5052cfcb1d",
+    "tarball": "https://registry.npmjs.org/nanoid/-/nanoid-1.2.0.tgz",
+    "fileCount": 14,
+    "unpackedSize": 15334,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbbOftCRA9TVsSAnZWagAAt5AP/18Y4ufDNearvBaz3fXZ\neZgDPBAJ8TLxo0UFEyDEXmAmWsSd7kdjhRx5lDFCPAvT5M6dz9TnLpTNbKQ4\nwG+cKdH/2dPHJ3wFC8QhSRUyJ0LpZPYfy6v/GDhDrOlDZ8L3ciA7xrDgSIEL\nBSN52r3o/MVIP1HPUlqryRcg5+VQfacjUZbiEnMz6tG5qWuhvoy4pq0vdUUL\nHGw2mBPc30m8TmU01wlW85IPoyVafjhrwn4B1+o+CtL5TFczmmZE6M8Uze3M\nTq6/LvjOvMZy+aYWfhEnJvkoWa61LHgJLzuVlTK28zJAwvqmBJZOBy1qfYkt\n+sKoM80/lgWtc2amo3Szl4jaXJ7ce+M6JH4dKizviy2S0YQG5jrIshSF5VZ9\nemc2/NT9j11OdpQvnUfQ8s2aBGNFVEG2zN+4kSy4GZtQCjpjoCjZ7IrHk3yz\njOTf9hSC19en4aUxDLxuOXFJ5ruSEl75Mp+6QoYAcwzJr14GEjIhPrCNBuqI\niwVOdbW7NmNPJJs/WF2ThKjfX0JW9Ihleq6ZOFMuVVDUJcMKe9WJ743gN1jL\nFfty5EJVDAfrlCuRIoekpoxHahERmbmartxUo+qVFbsOAR+LsbDfIuTRBSB3\nriyKkPnvOwe5fOFSJirxlZu+gFuDoDPnHM4erTVG9g2JTH190NBcxy2jX/+3\nFSfT\r\n=kixR\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "ai",
+      "email": "andrey@sitnik.ru"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nanoid_1.2.0_1533863917465_0.4575002057681956"
+  },
+  "_shasum": "e2c4dfa45c2bed995d0214aae157ce5052cfcb1d",
+  "_resolved": "https://registry.npmjs.org/nanoid/-/nanoid-1.2.0.tgz",
+  "_from": "nanoid@>=1.0.7 <2.0.0"
+}

@@ -1,0 +1,81 @@
+{
+  "name": "autoprefixer",
+  "version": "9.1.0",
+  "description": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website",
+  "keywords": [
+    "autoprefixer",
+    "css",
+    "prefix",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "author": {
+    "name": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcss/autoprefixer.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "browserslist": "^4.0.1",
+    "caniuse-lite": "^1.0.30000872",
+    "normalize-range": "^0.1.2",
+    "num2fraction": "^1.2.2",
+    "postcss": "^7.0.2",
+    "postcss-value-parser": "^3.2.3"
+  },
+  "bin": {
+    "autoprefixer": "./bin/autoprefixer"
+  },
+  "main": "lib/autoprefixer",
+  "bugs": {
+    "url": "https://github.com/postcss/autoprefixer/issues"
+  },
+  "homepage": "https://github.com/postcss/autoprefixer#readme",
+  "_id": "autoprefixer@9.1.0",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "10.8.0",
+  "_npmUser": {
+    "name": "ai",
+    "email": "andrey@sitnik.ru"
+  },
+  "dist": {
+    "integrity": "sha512-BbAIdxNdptG/x4DiGGfpkDVYyqu4nUyNdBB0Utr49Gn3+0RERV1MdHik2FSbbWwhMAuk1KrfVJHe7nEMheGdBA==",
+    "shasum": "566a70d1148046b96b31efa08090f1999ffb6d8c",
+    "tarball": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.1.0.tgz",
+    "fileCount": 74,
+    "unpackedSize": 319101,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbY7GvCRA9TVsSAnZWagAAs3EP/0Sbwumpkzq3hkAYZNB0\nSkgg0Jm9vy0c6f3WDbkiQIRp5rufQTvD0iJBAD5tSZxtB172sA20HekMfu8z\nFGK1Qrh7kZIlwEqB9Gjy/gcGRGcHRGT+wZQD9jGgi/GJ1hbJyStPwSfjlnK1\nB76kRDSFRR9yLzZi9YayJNhWu44pJEzveQU6+SOppOerd3Y8XPIcBaB7g1CC\noPas2nxEXfB9GC3cvJz7EabdM985hNmRKAxSuggpnRacZVkY7JznlOqeFnTq\n4O/AhK/UPus4AT7485peKvRChTqN5O9j1DGHIcSThS9DK32dJLHvC9PemGMa\n1T/VEhLkV8wEUG24lq7gZ4eer9mXk2FWmw5E2Fj0GlHYo/8JNEks9ruREEso\nkTi/TaRf88JUWEpRNbMrJK5m2XQCVcWQMn0e27n0iyP44RZfpQs/FRZE5dF8\nNkTVDMp20QfVoI/wMtR2+wQvepEeqFfBt7mgX02DcKVviw/WgUYs7jRQcPEj\nLCDnyE7Br85aYzup0OrJlzztK7LVZiElIMYQmGSi5tQAWAiysxdgLXkldBdE\nYChpMlaWVw2umPVGuR3bkmnf07vqIDV8dixoNK2L6kkc5/KbcXRa9rf8utyH\nScWpK6hX76atvEMQPjmmcTCqtwDid/08F0Mh5T5D8UbPY2SYWBTZTYYJnfMJ\nfuE7\r\n=u965\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "email": "buryak.ivan@yandex.ru",
+      "name": "11bit"
+    },
+    {
+      "email": "andrey@sitnik.ru",
+      "name": "ai"
+    },
+    {
+      "email": "beneb.info@gmail.com",
+      "name": "beneb"
+    },
+    {
+      "email": "kossnocorp@gmail.com",
+      "name": "kossnocorp"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/autoprefixer_9.1.0_1533260206994_0.10190534708041743"
+  },
+  "_shasum": "566a70d1148046b96b31efa08090f1999ffb6d8c",
+  "_resolved": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.1.0.tgz",
+  "_from": "autoprefixer@>=9.0.0 <10.0.0"
+}

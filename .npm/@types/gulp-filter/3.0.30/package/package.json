@@ -1,0 +1,50 @@
+{
+  "name": "@types/gulp-filter",
+  "version": "3.0.30",
+  "description": "TypeScript definitions for gulp-filter",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Tanguy Krotoff",
+      "url": "https://github.com/tkrotoff"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/vinyl": "*",
+    "@types/minimatch": "*",
+    "@types/node": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "03fe800c5e68ca2b6cb9fabe5041e4498772acaf7ce204350e25139c0295f4ea",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp-filter@3.0.30",
+  "dist": {
+    "shasum": "e0b16fd5c7bc05219ee32d25f8b69af1328ec3a8",
+    "tarball": "https://registry.npmjs.org/@types/gulp-filter/-/gulp-filter-3.0.30.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-filter-3.0.30.tgz_1489675031276_0.24329693615436554"
+  },
+  "directories": {},
+  "_shasum": "e0b16fd5c7bc05219ee32d25f8b69af1328ec3a8",
+  "_resolved": "https://registry.npmjs.org/@types/gulp-filter/-/gulp-filter-3.0.30.tgz",
+  "_from": "@types/gulp-filter@>=3.0.29 <4.0.0",
+  "readme": "ERROR: No README data found!"
+}

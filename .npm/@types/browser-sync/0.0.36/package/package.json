@@ -1,0 +1,58 @@
+{
+  "name": "@types/browser-sync",
+  "version": "0.0.36",
+  "description": "TypeScript definitions for browser-sync",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Asana",
+      "url": "https://asana.com"
+    },
+    {
+      "name": "Joe Skeen",
+      "url": "https://github.com/joeskeen"
+    },
+    {
+      "name": "Thomas \"Thasmo\" Deinhamer",
+      "url": "https://thasmo.com/"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/chokidar": "*",
+    "@types/micromatch": "*",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "8a6e1f463bc70717e9901ef65f01edf5cad573b774b6894a38f08855226fc6f9",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/browser-sync@0.0.36",
+  "dist": {
+    "integrity": "sha512-f6eo8Qq8WAaztKqcN6DnU4pcHOUoTPyp7CeGe9FPs3jX2CtBt/cpa4hKiZWap6PzM/AF3v4yQh4OuwTEm3JBCA==",
+    "shasum": "4201301e024b0ebc903e66f679f75793eb0407f0",
+    "tarball": "https://registry.npmjs.org/@types/browser-sync/-/browser-sync-0.0.36.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/browser-sync-0.0.36.tgz_1503352178737_0.8529889017809182"
+  },
+  "directories": {},
+  "_shasum": "4201301e024b0ebc903e66f679f75793eb0407f0",
+  "_resolved": "https://registry.npmjs.org/@types/browser-sync/-/browser-sync-0.0.36.tgz",
+  "_from": "@types/browser-sync@>=0.0.36 <0.0.37",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "@types/gulp-load-plugins",
+  "version": "0.0.30",
+  "description": "TypeScript definitions for gulp-load-plugins",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Joe Skeen",
+      "url": "https://github.com/joeskeen"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "118d96068e4a54446cd4240b5f10ad93c71c9ee79fc4c8bf6243292501b31bda",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp-load-plugins@0.0.30",
+  "dist": {
+    "integrity": "sha512-lwI2Gs2AaY9BjDTFszQlAtlGLMUhDMgKwTUyy/3nmqvZfE636ZMB4CnrU1ZKKP/045VoMDmqV36qHPYQCVxN/w==",
+    "shasum": "42696236d78dac49b440338e6d71a9a03fe12d4e",
+    "tarball": "https://registry.npmjs.org/@types/gulp-load-plugins/-/gulp-load-plugins-0.0.30.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-load-plugins-0.0.30.tgz_1503352373240_0.883142692502588"
+  },
+  "directories": {},
+  "_shasum": "42696236d78dac49b440338e6d71a9a03fe12d4e",
+  "_resolved": "https://registry.npmjs.org/@types/gulp-load-plugins/-/gulp-load-plugins-0.0.30.tgz",
+  "_from": "@types/gulp-load-plugins@>=0.0.30 <0.0.31",
+  "readme": "ERROR: No README data found!"
+}

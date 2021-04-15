@@ -1,0 +1,73 @@
+{
+  "name": "@angular/compiler-cli",
+  "version": "4.4.6",
+  "description": "Angular - the compiler CLI for Node.js",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "bin": {
+    "ngc": "./src/main.js",
+    "ng-xi18n": "./src/extract_i18n.js"
+  },
+  "dependencies": {
+    "@angular/tsc-wrapped": "4.4.6",
+    "reflect-metadata": "^0.1.2",
+    "minimist": "^1.2.0"
+  },
+  "peerDependencies": {
+    "typescript": "^2.0.2",
+    "@angular/compiler": "4.4.6",
+    "@angular/core": "4.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "keywords": [
+    "angular",
+    "compiler"
+  ],
+  "contributors": [
+    {
+      "name": "Tobias Bosch",
+      "email": "tbosch@google.com",
+      "url": "https://angular.io/"
+    },
+    {
+      "name": "Alex Eagle",
+      "email": "alexeagle@google.com",
+      "url": "https://angular.io/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular/tree/master/packages/compiler-cli",
+  "_id": "@angular/compiler-cli@4.4.6",
+  "scripts": {},
+  "_shasum": "bafd3d1e260e99087eb9a8cf7532dbd603abb9b1",
+  "_from": "@angular/compiler-cli@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "bafd3d1e260e99087eb9a8cf7532dbd603abb9b1",
+    "tarball": "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/compiler-cli-4.4.6.tgz_1508372348976_0.5218051576521248"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "@types/chokidar",
+  "version": "1.7.3",
+  "description": "TypeScript definitions for chokidar",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Stefan Steinhart",
+      "url": "https://github.com/reppners"
+    },
+    {
+      "name": "Felix Becker",
+      "url": "https://github.com/felixfbecker"
+    },
+    {
+      "name": "Zach Cardoza",
+      "url": "https://github.com/bayssmekanique"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "f05bd91d7f309de3e486c1ff7b228112b516d01c0a82e30221fa8c75959b1c06",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/chokidar@1.7.3",
+  "dist": {
+    "integrity": "sha512-0gUr9F5yQY3fynp/HbUOCihob3rISG7HxE/9rivWrDY9UEZ+WPODYjtfccRlY1tuhZTyNtck68umiZ00ghxU5g==",
+    "shasum": "ca87a53aa596c01eb93237ab4055edf71dcb9ca6",
+    "tarball": "https://registry.npmjs.org/@types/chokidar/-/chokidar-1.7.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/chokidar-1.7.3.tgz_1505945292570_0.8834121816325933"
+  },
+  "directories": {},
+  "_shasum": "ca87a53aa596c01eb93237ab4055edf71dcb9ca6",
+  "_resolved": "https://registry.npmjs.org/@types/chokidar/-/chokidar-1.7.3.tgz",
+  "_from": "@types/chokidar@*",
+  "readme": "ERROR: No README data found!"
+}

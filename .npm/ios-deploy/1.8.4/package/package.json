@@ -1,0 +1,66 @@
+{
+  "name": "ios-deploy",
+  "version": "1.8.4",
+  "os": [
+    "darwin"
+  ],
+  "description": "launch iOS apps iOS devices from the command line (Xcode 7)",
+  "main": "ios-deploy",
+  "scripts": {
+    "preinstall": "./src/check_reqs.js && xcodebuild",
+    "test": "npm run jshint",
+    "jshint": "node node_modules/jshint/bin/jshint src"
+  },
+  "bin": {
+    "ios-deploy": "./build/Release/ios-deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonegap/ios-deploy.git"
+  },
+  "devDependencies": {
+    "jshint": "2.5.8"
+  },
+  "keywords": [
+    "ios-deploy",
+    "deploy to iOS device"
+  ],
+  "bugs": {
+    "url": "https://github.com/phonegap/ios-deploy/issues"
+  },
+  "author": {
+    "name": "Greg Hughes"
+  },
+  "license": "GPLv3",
+  "gitHead": "3555b1222c2e73df68059ec16f100a29dc6725a8",
+  "homepage": "https://github.com/phonegap/ios-deploy#readme",
+  "_id": "ios-deploy@1.8.4",
+  "_shasum": "2edc8ca78b512505af16bb178cdbc60fa524dabb",
+  "_from": "ios-deploy@1.8.4",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "shazron",
+    "email": "shazron@gmail.com"
+  },
+  "dist": {
+    "shasum": "2edc8ca78b512505af16bb178cdbc60fa524dabb",
+    "tarball": "https://registry.npmjs.org/ios-deploy/-/ios-deploy-1.8.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ios-deploy/-/ios-deploy-1.8.4.tgz"
+}

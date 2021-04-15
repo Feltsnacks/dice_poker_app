@@ -1,0 +1,117 @@
+{
+  "name": "generator-ngx-rocket",
+  "version": "5.0.1",
+  "description": "Extensible Angular 6+ enterprise-grade project generator based on angular-cli with best practices from the community. Includes PWA and Cordova support, coding guides and more!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-rocket/generator-ngx-rocket.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "ngx",
+    "rocket",
+    "app",
+    "addon",
+    "generator",
+    "angular",
+    "angular-cli",
+    "bootstrap",
+    "ionic",
+    "material",
+    "scalable",
+    "enterprise",
+    "scaffold",
+    "boilerplate",
+    "seed",
+    "typescript",
+    "sass",
+    "cordova",
+    "mobile",
+    "web",
+    "pwa",
+    "tool",
+    "cli"
+  ],
+  "author": {
+    "name": "Yohan Lasorsa"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ngx-rocket/generator-ngx-rocket",
+  "bugs": {
+    "url": "https://github.com/ngx-rocket/generator-ngx-rocket/issues"
+  },
+  "preferGlobal": true,
+  "main": "./generators/app/index.js",
+  "bin": {
+    "ngx": "./cli/bin/ngx"
+  },
+  "scripts": {
+    "lint": "eslint \"generators/*/*.js\" \"cli/*.js\"",
+    "test": "npm run lint -s && ./scripts/test.sh",
+    "test:addon": "npm run lint -s && TEST_ADDON=1 ./scripts/test.sh",
+    "deploy": "scripts/deploy.sh",
+    "postpublish": "git tag -a $npm_package_version -m \"$npm_package_version\" && git push --tags",
+    "changelog": "github_changelog_generator && git add CHANGELOG.md && git commit -m 'Updated changelog'"
+  },
+  "dependencies": {
+    "@ngx-rocket/ascii-logo": "^1.0.1",
+    "@ngx-rocket/core": "^3.3.0",
+    "chalk": "^2.4.1",
+    "conf": "^2.0.0",
+    "figures": "^2.0.0",
+    "inquirer": "^6.0.0",
+    "insight": "^0.10.1",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.get": "^4.4.2",
+    "lodash.upperfirst": "^4.3.1",
+    "minimist": "^1.2.0",
+    "semver": "^5.5.0",
+    "update-notifier": "^2.5.0",
+    "yeoman-environment": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-xo-space": "^0.18.0"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space/esnext"
+  },
+  "files": [
+    "generators",
+    "cli"
+  ],
+  "gitHead": "f783a3b40e91f2d63c3b62ab9e496b95c3fbbd9b",
+  "_id": "generator-ngx-rocket@5.0.1",
+  "_npmVersion": "5.8.0",
+  "_nodeVersion": "8.11.1",
+  "_npmUser": {
+    "name": "sinedied",
+    "email": "noda@free.fr"
+  },
+  "dist": {
+    "integrity": "sha512-WEZ2D2FtESTtexJKlNF1+Lg3d0J5dbhPXdz2e2fDAKfsNlMWI0E0oQfCoDawdL+QxXbWJtUAtzDKQ09lSpXcXw==",
+    "shasum": "e612cfef19f4dc8b1c112daeb9c2048ab871f35e",
+    "tarball": "https://registry.npmjs.org/generator-ngx-rocket/-/generator-ngx-rocket-5.0.1.tgz",
+    "fileCount": 216,
+    "unpackedSize": 739334,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbH3Y1CRA9TVsSAnZWagAAlKwQAJwhhry+Dz6nubaYb5ts\n7crDsvKtCbeGT/Lz7DbNkSR24b0ZocL7ZoD3o1ii7BsDWKRUA5cXbVwvraUy\ntFMnnfe8SLHhgl2C9u2o5spqU3vMIutILHoxZYA1A3YBJO7LIuVhGGl6SfkT\ntV6WPLMYVrYIz62xR2/iB0uAEkU3/XM9ne+Y89mWRRrg8Z94trRcrGQnjXvM\nxOqBsIptgoV9JpuIJIXNtTuPbDzdNktfYGyEVUqIrliLgyZpca8IvH7cGdoE\nYWHg7u+KXW7sPjNJqcSeBDmSuxop5q8IGNPgx5kS18IN3eeQz+FPmuE++BHH\nWregrkgRA8aSqkNYdqzYGBw8RUU60LE3cNoeX5OK3MAUvhpYIUF/A/Kn39kw\nAG3sUNxvE52cFO4tl88hXwphYOyA1SX+sJY8qCn8MUVoiSmshsniVBZzVh2O\nGQoWmc8glLbql9ncXUSZyXlOI8+nv8Ci32HoKzdu5PG+T42Y+doZYJjHLjMF\nDAcPhLhSvIYokpiuK+KGD0GnBWpxLURZBp/OGbRUTkfDDHmlDN21gPuAz/NI\nTF7Fdm0ymI8p3tz22NDfKffNsvmGTrK8E0lauEtpWdig1iXUpqadqprIgvGK\nigd1NJBvyMUobC1+6KplOWG+PGQNK40RBo2NhPE4flcpkxYpY5FAAPl+Dx7I\nwCdK\r\n=m/Ag\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "sinedied",
+      "email": "noda@free.fr"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/generator-ngx-rocket_5.0.1_1528788531263_0.8509451664166878"
+  },
+  "_shasum": "e612cfef19f4dc8b1c112daeb9c2048ab871f35e",
+  "_resolved": "https://registry.npmjs.org/generator-ngx-rocket/-/generator-ngx-rocket-5.0.1.tgz",
+  "_from": "generator-ngx-rocket@latest",
+  "readme": "ERROR: No README data found!"
+}

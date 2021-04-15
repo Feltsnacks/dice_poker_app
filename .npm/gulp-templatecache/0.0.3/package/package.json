@@ -1,0 +1,47 @@
+{
+  "name": "gulp-templatecache",
+  "version": "0.0.3",
+  "description": "Gulp plugin to join AngularJS templates in one JavaScript template cache",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darlanalves/gulp-templateCache.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "darlanalves"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darlanalves/gulp-templateCache/issues"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.9",
+    "through": "~2.3.4",
+    "html-minifier": "~0.5.5"
+  },
+  "homepage": "https://github.com/darlanalves/gulp-templateCache",
+  "_id": "gulp-templatecache@0.0.3",
+  "dist": {
+    "shasum": "a41539eaa9a400b779a30cc71cba94aa80290733",
+    "tarball": "http://registry.npmjs.org/gulp-templatecache/-/gulp-templatecache-0.0.3.tgz"
+  },
+  "_from": "gulp-templatecache@0.0.3",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "darlanalves",
+    "email": "me@darlanalv.es"
+  },
+  "maintainers": [
+    {
+      "name": "darlanalves",
+      "email": "me@darlanalv.es"
+    }
+  ],
+  "directories": {},
+  "_shasum": "a41539eaa9a400b779a30cc71cba94aa80290733",
+  "_resolved": "https://registry.npmjs.org/gulp-templatecache/-/gulp-templatecache-0.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}

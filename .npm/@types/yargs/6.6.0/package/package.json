@@ -1,0 +1,44 @@
+{
+  "name": "@types/yargs",
+  "version": "6.6.0",
+  "description": "TypeScript definitions for yargs",
+  "license": "MIT",
+  "author": {
+    "name": "Martin Poelstra",
+    "email": "https://github.com/poelstra"
+  },
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "typesPublisherContentHash": "9b79b82e6860eb01d6ac04eb73af8ddb6a1a6dd62caf985caee6f441ec6466ab",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/yargs@6.6.0",
+  "dist": {
+    "shasum": "91f8e2580a8083049f78311c059aa57d6949df6b",
+    "tarball": "https://registry.npmjs.org/@types/yargs/-/yargs-6.6.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/yargs-6.6.0.tgz_1486500871969_0.22539031482301652"
+  },
+  "directories": {},
+  "_shasum": "91f8e2580a8083049f78311c059aa57d6949df6b",
+  "_resolved": "https://registry.npmjs.org/@types/yargs/-/yargs-6.6.0.tgz",
+  "_from": "@types/yargs@>=6.5.0 <7.0.0",
+  "readme": "ERROR: No README data found!"
+}

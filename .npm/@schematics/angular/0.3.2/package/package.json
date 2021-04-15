@@ -1,0 +1,70 @@
+{
+  "name": "@schematics/angular",
+  "version": "0.3.2",
+  "description": "Schematics specific to Angular",
+  "keywords": [
+    "angular",
+    "devkit",
+    "sdk",
+    "Angular DevKit",
+    "blueprints",
+    "code generation",
+    "schematics"
+  ],
+  "schematics": "./collection.json",
+  "dependencies": {
+    "typescript": "~2.6.2"
+  },
+  "peerDependencies": {
+    "@angular-devkit/core": "0.3.2",
+    "@angular-devkit/schematics": "0.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/devkit.git"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": {
+    "name": "Angular Authors"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/devkit/issues"
+  },
+  "homepage": "https://github.com/angular/devkit",
+  "_id": "@schematics/angular@0.3.2",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "angular",
+    "email": "devops+npm@angular.io"
+  },
+  "dist": {
+    "integrity": "sha512-Elrk0BA951s0ScFZU0AWrpUeJBYVR52DZ1QTIO5R0AhwEd1PW4olI8szPLGQlVW5Sd6H0FA/fyFLIvn2r9v6Rw==",
+    "shasum": "be209a032a3e4577992d94fbaa14bd4bfde485e2",
+    "tarball": "https://registry.npmjs.org/@schematics/angular/-/angular-0.3.2.tgz",
+    "fileCount": 120,
+    "unpackedSize": 380255
+  },
+  "maintainers": [
+    {
+      "email": "angular-core+npm@google.com",
+      "name": "angular"
+    },
+    {
+      "email": "hans+schematics@hansl.ca",
+      "name": "schematics"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular_0.3.2_1519266505235_0.10431612690560699"
+  },
+  "_shasum": "be209a032a3e4577992d94fbaa14bd4bfde485e2",
+  "_resolved": "https://registry.npmjs.org/@schematics/angular/-/angular-0.3.2.tgz",
+  "_from": "@schematics/angular@0.3.2"
+}

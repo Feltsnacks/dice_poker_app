@@ -1,0 +1,63 @@
+{
+  "name": "circular-dependency-plugin",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "memory-fs": "^0.3.0",
+    "webpack": "^3.5.5"
+  },
+  "description": "Detect modules with circular dependencies when bundling with webpack.",
+  "version": "4.4.0",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aackerman/circular-dependency-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aackerman/circular-dependency-plugin/issues"
+  },
+  "homepage": "https://github.com/aackerman/circular-dependency-plugin#readme",
+  "jest": {
+    "testMatch": [
+      "**/?(*.)(spec|test).js?(x)"
+    ]
+  },
+  "gitHead": "47b4afa2f1ebe608dd733558a7b420cf3a7a0992",
+  "_id": "circular-dependency-plugin@4.4.0",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.5.0",
+  "_npmUser": {
+    "name": "theron",
+    "email": "theron17@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-yEFtUNUYT4jBykEX5ZOHw+5goA3glGZr9wAXIQqoyakjz5H5TeUmScnWRc52douAhb9eYzK3s7V6bXfNnjFdzg==",
+    "shasum": "f8a1a746a3f6c8e57f4dae9b54d991cd2a582f5d",
+    "tarball": "https://registry.npmjs.org/circular-dependency-plugin/-/circular-dependency-plugin-4.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "theron",
+      "email": "theron17@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/circular-dependency-plugin-4.4.0.tgz_1515815099899_0.011846507899463177"
+  },
+  "directories": {},
+  "_shasum": "f8a1a746a3f6c8e57f4dae9b54d991cd2a582f5d",
+  "_resolved": "https://registry.npmjs.org/circular-dependency-plugin/-/circular-dependency-plugin-4.4.0.tgz",
+  "_from": "circular-dependency-plugin@>=4.2.1 <5.0.0"
+}

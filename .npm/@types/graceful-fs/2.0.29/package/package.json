@@ -1,0 +1,41 @@
+{
+  "name": "@types/graceful-fs",
+  "version": "2.0.29",
+  "description": "TypeScript definitions for graceful-fs 2.0.0",
+  "license": "MIT",
+  "author": "Bart van der Schoor <https://github.com/Bartvds>",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typings": "index.d.ts",
+  "typesPublisherContentHash": "17692aae0305497bee4e6d9ed179bf3e11e68d8dbeb8d6b26546669ad7e598fb",
+  "_id": "@types/graceful-fs@2.0.29",
+  "dist": {
+    "shasum": "f9832236cef906b501b184dc3d58bdf454d37b01",
+    "tarball": "https://registry.npmjs.org/@types/graceful-fs/-/graceful-fs-2.0.29.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/graceful-fs-2.0.29.tgz_1474306669814_0.6425043647177517"
+  },
+  "directories": {},
+  "_shasum": "f9832236cef906b501b184dc3d58bdf454d37b01",
+  "_resolved": "https://registry.npmjs.org/@types/graceful-fs/-/graceful-fs-2.0.29.tgz",
+  "_from": "@types/graceful-fs@>=2.0.29 <3.0.0"
+}

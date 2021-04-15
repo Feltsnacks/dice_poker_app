@@ -1,0 +1,120 @@
+{
+  "name": "hads",
+  "version": "1.7.0",
+  "description": "Fast web server allowing to browse, search and edit project documentation written in Markdown",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinedied/hads.git"
+  },
+  "keywords": [
+    "markdown",
+    "gfm",
+    "server",
+    "local",
+    "offline",
+    "search",
+    "edit",
+    "doc",
+    "documentation",
+    "knowledgebase",
+    "wiki",
+    "search",
+    "mermaid",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Yohan Lasorsa"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sinedied/hads",
+  "bugs": {
+    "url": "https://github.com/sinedied/hads/issues"
+  },
+  "main": "hads.js",
+  "scripts": {
+    "start": "node hads.js ./test -o",
+    "test": "eslint *.js lib/*.js",
+    "postpublish": "git tag -a $npm_package_version -m \"$npm_package_version\" && git push --tags"
+  },
+  "bin": {
+    "hads": "./bin/hads"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "ace-builds": "^1.4.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "dropzone": "^5.5.1",
+    "elasticlunr": "^0.9.5",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "highlight.js": "^9.12.0",
+    "lodash": "^4.17.10",
+    "marked": "^0.4.0",
+    "mermaid": "^7.1.2",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.2",
+    "multer": "^1.3.1",
+    "octicons": "^4.4.0",
+    "opn": "^5.3.0",
+    "optimist": "^0.6.1",
+    "pug": "^2.0.3",
+    "recursive-readdir": "^2.2.2",
+    "remove-markdown": "^0.3.0",
+    "shortid": "^2.2.12",
+    "string-humanize": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-xo-space": "^0.20.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space/esnext",
+    "rules": {
+      "no-multi-spaces": [
+        "error",
+        {
+          "ignoreEOLComments": true
+        }
+      ],
+      "one-var": [
+        "error",
+        {
+          "initialized": "never"
+        }
+      ]
+    }
+  },
+  "gitHead": "57c0fe291d80b7e3d721008965ec1f0b145bda36",
+  "_id": "hads@1.7.0",
+  "_npmVersion": "6.2.0",
+  "_nodeVersion": "8.11.1",
+  "_npmUser": {
+    "name": "sinedied",
+    "email": "noda@free.fr"
+  },
+  "dist": {
+    "integrity": "sha512-Ej0BfcHxORtamUaKgzzZg+CSeHU+GIJHl27i7GMlFwHfFibbdTP/o5a6nlJgpwVh9M1dVlvVw8C0/jCe6Iym2Q==",
+    "shasum": "f3d19089aaf6a708e7f94a02fc64a240a0a38425",
+    "tarball": "https://registry.npmjs.org/hads/-/hads-1.7.0.tgz",
+    "fileCount": 20,
+    "unpackedSize": 567482,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbbVWxCRA9TVsSAnZWagAAO6kP/2y5rXn8+vdHgE+lcUVT\nTgga/1nfRIXAWsF4sfU8WIAdCM6L0c7nIamxRceOztHt+C7j5veWpskwBNVz\nynLYA2BWf6EiAz/JHQz+zyOoQZWycvkVIWuYG7Uk9tSA2x3bGB7uTzZlRm+F\nqyG+a5RBKiQ6cf7lkJh+vmWhHhb8rf+Kd0bk/SlAN9PiVF7KCJlfk/Djei7T\n9ZqCSfZhpRx6fEgtzxi6HriN1RPSd1geiqYMPeEl+iIqgtQ2za8PnU1M6AX4\naS46eu4sr0l4CU/pWi6fFOZ7iPW+7aTORUzfYtxelz8Mc7i8QGSMEaJmZScD\nEStdmgt48okV3kc6ZpFkqHR0IJtlzJBUEZMM5H4J2htzf1nmxkRYuv1a4vHs\nyZHtrux4cmsvyue2n25pxuyrqqKA4RsxCE7jBDckDsTmDe7t68Tg087wYMuv\nMP+aml7yrIINTX9rx00ArXX2MK55CUX6T7z6wepmHS6zeRb7qfkvBIp7/Kld\nR3NfA9ADIBPbcOhiciqZqiFWxYP0JYrvq3C8TAA8W1LHTugOElez79u9zlhS\nSF/XrOxubNXI7nzo8N5mNiDUZV2KepJjZcE+a16gjVt+fGo0LP1Tgr0V7ltC\nyGtXNLtybPCh83P3ZaqZ3Op7xmUEQD03bEHt+crhdFfeWfpp61qT6goxoUtk\nG5Vw\r\n=pU70\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "sinedied",
+      "email": "noda@free.fr"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/hads_1.7.0_1533892017512_0.3943936229947731"
+  },
+  "_shasum": "f3d19089aaf6a708e7f94a02fc64a240a0a38425",
+  "_resolved": "https://registry.npmjs.org/hads/-/hads-1.7.0.tgz",
+  "_from": "hads@>=1.6.1 <2.0.0"
+}

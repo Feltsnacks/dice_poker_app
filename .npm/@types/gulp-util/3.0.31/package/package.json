@@ -1,0 +1,51 @@
+{
+  "name": "@types/gulp-util",
+  "version": "3.0.31",
+  "description": "TypeScript definitions for gulp-util",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "jedmao",
+      "url": "https://github.com/jedmao"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/vinyl": "*",
+    "@types/chalk": "*",
+    "@types/through2": "*",
+    "@types/node": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "92089ae2a25e2b3afb2ebdbd7bfe6b3604ba1bfb835058aa677a15fc0149730b",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp-util@3.0.31",
+  "dist": {
+    "shasum": "272e298220365717e1f7f979b50ebadb44297cbf",
+    "tarball": "https://registry.npmjs.org/@types/gulp-util/-/gulp-util-3.0.31.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/gulp-util-3.0.31.tgz_1489675152640_0.06748634483665228"
+  },
+  "directories": {},
+  "_shasum": "272e298220365717e1f7f979b50ebadb44297cbf",
+  "_resolved": "https://registry.npmjs.org/@types/gulp-util/-/gulp-util-3.0.31.tgz",
+  "_from": "@types/gulp-util@>=3.0.29 <4.0.0",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "estree-walker",
+  "description": "Traverse an ESTree-compliant AST",
+  "version": "0.5.1",
+  "author": {
+    "name": "Rich Harris"
+  },
+  "license": "MIT",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rich-Harris/estree-walker.git"
+  },
+  "main": "dist/estree-walker.umd.js",
+  "module": "dist/estree-walker.es.js",
+  "jsnext:main": "dist/estree-walker.es.js",
+  "scripts": {
+    "prepublish": "npm run lint && npm test",
+    "build": "rollup -c",
+    "test": "mocha test/test.js --compilers js:buble/register",
+    "pretest": "npm run build",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "buble": "^0.15.2",
+    "eslint": "^4.5.0",
+    "mocha": "^3.5.0",
+    "rollup": "^0.48.0",
+    "rollup-plugin-buble": "^0.15.0"
+  },
+  "files": [
+    "src",
+    "dist",
+    "README.md"
+  ],
+  "gitHead": "56e487e0b8fe966f8f65d11f887d6803fa995a14",
+  "bugs": {
+    "url": "https://github.com/Rich-Harris/estree-walker/issues"
+  },
+  "homepage": "https://github.com/Rich-Harris/estree-walker#readme",
+  "_id": "estree-walker@0.5.1",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "9.1.0",
+  "_npmUser": {
+    "name": "rich_harris",
+    "email": "richard.a.harris@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-7HgCgz1axW7w5aOvgOQkoR1RMBkllygJrssU3BvymKQ95lxXYv6Pon17fBRDm9qhkvXZGijOULoSF9ShOk/ZLg==",
+    "shasum": "64fc375053abc6f57d73e9bd2f004644ad3c5854",
+    "tarball": "https://registry.npmjs.org/estree-walker/-/estree-walker-0.5.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "rich_harris",
+      "email": "richard.a.harris@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/estree-walker-0.5.1.tgz_1511366134292_0.04326739418320358"
+  },
+  "directories": {},
+  "_shasum": "64fc375053abc6f57d73e9bd2f004644ad3c5854",
+  "_resolved": "https://registry.npmjs.org/estree-walker/-/estree-walker-0.5.1.tgz",
+  "_from": "estree-walker@>=0.5.0 <0.6.0",
+  "readme": "ERROR: No README data found!"
+}

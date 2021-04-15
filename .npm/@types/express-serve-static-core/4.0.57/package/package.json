@@ -1,0 +1,56 @@
+{
+  "name": "@types/express-serve-static-core",
+  "version": "4.0.57",
+  "description": "TypeScript definitions for Express",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Boris Yankov",
+      "url": "https://github.com/borisyankov"
+    },
+    {
+      "name": "Michał Lytek",
+      "url": "https://github.com/19majkel94"
+    },
+    {
+      "name": "Kacper Polak",
+      "url": "https://github.com/kacepe"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "6792ccd7b89e2a8656b41584395b2569c2309d17304cc70561c41beabe4c1664",
+  "typeScriptVersion": "2.1",
+  "_id": "@types/express-serve-static-core@4.0.57",
+  "dist": {
+    "integrity": "sha512-QLAHjdLwEICm3thVbXSKRoisjfgMVI4xJH/HU8F385BR2HI7PmM6ax4ELXf8Du6sLmSpySXMYaI+xc//oQ/IFw==",
+    "shasum": "3cd8ab4b11d5ecd70393bada7fc1c480491537dd",
+    "tarball": "https://registry.npmjs.org/@types/express-serve-static-core/-/express-serve-static-core-4.0.57.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/express-serve-static-core-4.0.57.tgz_1511288537415_0.292545702541247"
+  },
+  "directories": {},
+  "_shasum": "3cd8ab4b11d5ecd70393bada7fc1c480491537dd",
+  "_resolved": "https://registry.npmjs.org/@types/express-serve-static-core/-/express-serve-static-core-4.0.57.tgz",
+  "_from": "@types/express-serve-static-core@*",
+  "readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "photoswipe",
+  "version": "4.1.2",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt jshint"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-aws-s3": "^0.14.2",
+    "grunt-contrib-clean": "~0.7.0",
+    "grunt-contrib-concat": "~0.5.1",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "~0.11.3",
+    "grunt-contrib-uglify": "~0.11.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-jekyll": "~0.4.3",
+    "grunt-sass": "^1.1.0",
+    "grunt-svgmin": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dimsemenov/Photoswipe.git"
+  },
+  "description": "JavaScript gallery",
+  "bugs": {
+    "url": "https://github.com/dimsemenov/Photoswipe/issues"
+  },
+  "homepage": "http://photoswipe.com",
+  "main": "dist/photoswipe.js",
+  "keywords": [
+    "gallery",
+    "lightbox",
+    "photo",
+    "image",
+    "touch",
+    "swipe",
+    "zoom"
+  ],
+  "author": {
+    "name": "Dmitry Semenov",
+    "url": "http://dimsemenov.com"
+  },
+  "license": "MIT",
+  "gitHead": "b6fdb82ed0b5b635c0943098f3046581a02ead77",
+  "_id": "photoswipe@4.1.2",
+  "_shasum": "95c20a75cea23b70d6299641cad82e03cae7f797",
+  "_from": "photoswipe@>=4.1.2 <5.0.0",
+  "_npmVersion": "3.9.5",
+  "_nodeVersion": "6.2.2",
+  "_npmUser": {
+    "name": "dimsemenov",
+    "email": "diiiimaaaa@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dimsemenov",
+      "email": "diiiimaaaa@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "95c20a75cea23b70d6299641cad82e03cae7f797",
+    "tarball": "https://registry.npmjs.org/photoswipe/-/photoswipe-4.1.2.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/photoswipe-4.1.2.tgz_1492723873793_0.6175423683598638"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/photoswipe/-/photoswipe-4.1.2.tgz",
+  "readme": "ERROR: No README data found!"
+}

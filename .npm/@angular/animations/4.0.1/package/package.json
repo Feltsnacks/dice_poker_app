@@ -1,0 +1,50 @@
+{
+  "name": "@angular/animations",
+  "version": "4.0.1",
+  "description": "Angular - animations integration with web-animationss",
+  "main": "./bundles/animations.umd.js",
+  "module": "./@angular/animations.es5.js",
+  "es2015": "./@angular/animations.js",
+  "typings": "./animations.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/animations@4.0.1",
+  "scripts": {},
+  "_shasum": "154420c8ee5c22fbaf1434b6d156150cf5218da6",
+  "_from": "@angular/animations@>=4.0.0 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/animations/-/animations-4.0.1.tgz",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "154420c8ee5c22fbaf1434b6d156150cf5218da6",
+    "tarball": "https://registry.npmjs.org/@angular/animations/-/animations-4.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/animations-4.0.1.tgz_1490830631225_0.4015774200670421"
+  },
+  "directories": {}
+}

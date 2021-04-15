@@ -1,0 +1,96 @@
+{
+  "name": "postcss-html",
+  "version": "0.31.0",
+  "description": "PostCSS syntax for parsing HTML (and HTML-like)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucong3000/postcss-html.git"
+  },
+  "keywords": [
+    "postcss",
+    "syntax",
+    "html",
+    "vue",
+    "quickapp",
+    "PHP",
+    "css",
+    "less",
+    "sass",
+    "scss",
+    "sss",
+    "sugarss"
+  ],
+  "author": {
+    "name": "gucong"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gucong3000/postcss-html/issues"
+  },
+  "homepage": "https://github.com/gucong3000/postcss-html#readme",
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ],
+    "all": true,
+    "cache": true,
+    "check-coverage": true
+  },
+  "scripts": {
+    "test": "nyc mocha --no-timeouts"
+  },
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  },
+  "peerDependencies": {
+    "postcss": ">=5.0.0",
+    "postcss-syntax": ">=0.31.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.4",
+    "chai": "^4.1.2",
+    "codecov": "^3.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "postcss": "^6.0.23",
+    "postcss-less": "^2.0.0",
+    "postcss-safe-parser": "^3.0.1",
+    "postcss-scss": "^1.0.6",
+    "postcss-syntax": ">=0.31.0",
+    "sugarss": "^1.0.1"
+  },
+  "_id": "postcss-html@0.31.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.11.2",
+  "_npmUser": {
+    "name": "gucong",
+    "email": "gucong@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-5orIml7dVf17OrHyO39BXMGlklKT884FvkB+gdCtGJ63b1AAeGF7NuXGC1HM83TI0Ip1gZyBowrPuXCOPqqerA==",
+    "shasum": "ea6ae2e95df60a03032e9ab5aba72143d8ca0325",
+    "tarball": "https://registry.npmjs.org/postcss-html/-/postcss-html-0.31.0.tgz",
+    "fileCount": 10,
+    "unpackedSize": 9917,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbNg0fCRA9TVsSAnZWagAAAqgP/3/TsxGaJVdvkT38XNcT\n/KiC7HC9b3g5daiEexLfS8vwvXHOe9JNPz4mZbUzmyHScgNCPWL4HC4Q3WgE\nv/vwIcl1ekhjzPD00aUzvU+VWCETgZrgnkfwkdiK6jrTgMyHNd1WTVwfEkC7\nvA56GxEZMWIQs/hyWJfYpnj09b0L8yDw8sW6WMuh9lTgdLl4PEMTm7fBecuI\nOb08KcyXtIqTWZM6C8ggfpsW9idueoKQKuKSq9EGEs1NLMZJJ5kVzXbYjXHs\n82gARwIP7goDvALZahgjidjPb6LHWjgMtwvtAkPPsZTy9+f/nOnzjn3Axq94\n51D5Xwztcu0lATrta2RdCHd1t4TOhvHu1haULellxMcR0yYw74rivUeue5XF\nhz+1cwBpeVVuo/QmWU2KEZiAwUdjWr03eQtougt1n32UXo5PG9L9SeiEaEWJ\nUpefGvMAZ/tKTYDjlp4MoHYx4vIg5BLk0bqViVdZGqpU0h+UxfEerThm+3sQ\nR+ABU8NrTd4kcEZft1cyu6Vlfsf5XjtTKV4SI533se0mVpoirbFn1FYPgmkb\nFVI4P6nOU9lUdITG4sikYKeZqyV5vBuGoOGyMl3qgTcYs7qZu+76SKyCpQwg\nuevHPH9OhQ6c7iViHX2UDzmdZntfMu/S+iokdMi49TJAX1Ujz/kkTUS03OhI\nYMCw\r\n=TBTd\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "ai",
+      "email": "andrey@sitnik.ru"
+    },
+    {
+      "name": "gucong",
+      "email": "gucong@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/postcss-html_0.31.0_1530268959150_0.9935016386599087"
+  },
+  "_shasum": "ea6ae2e95df60a03032e9ab5aba72143d8ca0325",
+  "_resolved": "https://registry.npmjs.org/postcss-html/-/postcss-html-0.31.0.tgz",
+  "_from": "postcss-html@>=0.31.0 <0.32.0"
+}

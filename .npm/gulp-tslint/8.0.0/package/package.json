@@ -1,0 +1,84 @@
+{
+  "name": "gulp-tslint",
+  "preferGlobal": false,
+  "version": "8.0.0",
+  "author": {
+    "name": "Panu Horsmalahti",
+    "email": "panu.horsmalahti@iki.fi"
+  },
+  "description": "TypeScript linter Gulp plugin",
+  "contributors": [
+    {
+      "name": "Panu Horsmalahti",
+      "email": "panu.horsmalahti@iki.fi"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panuhorsmalahti/gulp-tslint.git"
+  },
+  "keywords": [
+    "gulp",
+    "typescript",
+    "plugin",
+    "ts",
+    "gulpplugin",
+    "gulpfriendly",
+    "tslint",
+    "linter",
+    "lint"
+  ],
+  "dependencies": {
+    "gulp-util": "~3.0.8",
+    "map-stream": "~0.1.0",
+    "through": "~2.3.8"
+  },
+  "analyze": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-typescript": "^3.1.6",
+    "tslint": "^5",
+    "typescript": "^2"
+  },
+  "peerDependencies": {
+    "tslint": ">=5.0.0-dev"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4"
+  },
+  "bugs": {
+    "url": "https://github.com/panuhorsmalahti/gulp-tslint/issues"
+  },
+  "homepage": "https://github.com/panuhorsmalahti/gulp-tslint",
+  "typings": "index",
+  "gitHead": "19726ad3c51663f41e6089441e435b624159a67a",
+  "_id": "gulp-tslint@8.0.0",
+  "scripts": {},
+  "_shasum": "6a3087721e20d7b3d9d5a3e4fe5ad84f5ca66787",
+  "_from": "gulp-tslint@>=8.0.0 <9.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.4.0",
+  "_npmUser": {
+    "name": "nawitus",
+    "email": "panu.horsmalahti@iki.fi"
+  },
+  "dist": {
+    "shasum": "6a3087721e20d7b3d9d5a3e4fe5ad84f5ca66787",
+    "tarball": "https://registry.npmjs.org/gulp-tslint/-/gulp-tslint-8.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nawitus",
+      "email": "panu.horsmalahti@iki.fi"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-tslint-8.0.0.tgz_1491844487715_0.8326060611288995"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-tslint/-/gulp-tslint-8.0.0.tgz"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "@angular-devkit/build-optimizer",
+  "version": "0.3.2",
+  "description": "Angular Build Optimizer",
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
+  "bin": {
+    "build-optimizer": "./src/build-optimizer/cli.js",
+    "purify": "./src/purify/cli.js"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "source-map": "^0.5.6",
+    "typescript": "~2.6.2",
+    "webpack-sources": "^1.0.1"
+  },
+  "keywords": [
+    "angular",
+    "devkit",
+    "sdk",
+    "Angular DevKit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/devkit.git"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": {
+    "name": "Angular Authors"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/devkit/issues"
+  },
+  "homepage": "https://github.com/angular/devkit",
+  "_id": "@angular-devkit/build-optimizer@0.3.2",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "angular",
+    "email": "devops+npm@angular.io"
+  },
+  "dist": {
+    "integrity": "sha512-U0BCZtThq5rUfY08shHXpxe8ZhSsiYB/cJjUvAWRTs/ORrs8pbngS6xwseQws8d/vHoVrtqGD9GU9h8AmFRERQ==",
+    "shasum": "77d4d1e4fcd09575f0200e2d6d21c1a3f995096f",
+    "tarball": "https://registry.npmjs.org/@angular-devkit/build-optimizer/-/build-optimizer-0.3.2.tgz",
+    "fileCount": 36,
+    "unpackedSize": 286316
+  },
+  "maintainers": [
+    {
+      "email": "angular-core+npm@google.com",
+      "name": "angular"
+    },
+    {
+      "email": "hansl@google.com",
+      "name": "angular-devkit"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/build-optimizer_0.3.2_1519266499886_0.4742006330041062"
+  },
+  "_shasum": "77d4d1e4fcd09575f0200e2d6d21c1a3f995096f",
+  "_resolved": "https://registry.npmjs.org/@angular-devkit/build-optimizer/-/build-optimizer-0.3.2.tgz",
+  "_from": "@angular-devkit/build-optimizer@0.3.2"
+}

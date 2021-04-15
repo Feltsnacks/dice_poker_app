@@ -1,0 +1,34 @@
+{
+  "name": "nf-static-image",
+  "version": "1.0.1",
+  "description": "Static image field",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "author": {
+    "name": "New by Sigma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-native-fit-image": "^1.3.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-native": "^1.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "webpack": "^1.13.2",
+    "webpack-node-externals": "^1.3.3"
+  },
+  "gitHead": "5c6239b1a4b3123ac5aeaeefd0857fab61bbc0f4",
+  "readme": "ERROR: No README data found!",
+  "_id": "nf-static-image@1.0.1",
+  "_shasum": "c0b1a26d6383d1ded114222730936880ccd9c3c8",
+  "_from": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-static-image#master",
+  "_resolved": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-static-image#5c6239b1a4b3123ac5aeaeefd0857fab61bbc0f4"
+}

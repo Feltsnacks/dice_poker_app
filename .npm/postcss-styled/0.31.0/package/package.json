@@ -1,0 +1,83 @@
+{
+  "name": "postcss-styled",
+  "version": "0.31.0",
+  "description": "PostCSS syntax for parsing styled components",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucong3000/postcss-styled.git"
+  },
+  "keywords": [
+    "postcss",
+    "syntax",
+    "styled-components",
+    "react",
+    "css-in-js",
+    "css"
+  ],
+  "author": {
+    "name": "gucong3000"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gucong3000/postcss-styled/issues"
+  },
+  "homepage": "https://github.com/gucong3000/postcss-styled#readme",
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ],
+    "all": true,
+    "cache": true,
+    "check-coverage": true
+  },
+  "scripts": {
+    "test": "nyc mocha --no-timeouts"
+  },
+  "peerDependencies": {
+    "postcss": ">=5.0.0",
+    "postcss-syntax": ">=0.31.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "codecov": "^3.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "postcss": "^6.0.23",
+    "postcss-safe-parser": "^3.0.1",
+    "postcss-syntax": ">=0.31.0"
+  },
+  "_id": "postcss-styled@0.31.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.11.2",
+  "_npmUser": {
+    "name": "gucong",
+    "email": "gucong@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-tyCeU0XuuJJdmLmnklWuvcQe8zFIRoq+zof2K19UqdvoH8+P007vu9ShSRcu7S/LcjB+VWJl1tyqUszgFIjcDQ==",
+    "shasum": "ab532a2b3c469dfcca306a7623c4d4a98bb077d5",
+    "tarball": "https://registry.npmjs.org/postcss-styled/-/postcss-styled-0.31.0.tgz",
+    "fileCount": 10,
+    "unpackedSize": 8881,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbNgz+CRA9TVsSAnZWagAA9FsP/iU+MOjHZV6iRK5DHhYH\naovOhx9rHa48uHdd6baPN9rWPgQp9PqrB2JZ+dpbEGm1/iNbrw7TXfWhCMKo\nlnR1JE4rYVadiiiZd7sB/eeFFnceo5zbqly2vN2tjGWTaVDY09aEP7YFm7GI\nHT9oeE1T199wdU/9CcIXF4uDddzqlxsGCcToCyII7XGz3HhnO8qqW+gBflg3\nv3UEw3Ei4/LyHke6QKroJMqop3SvKdqa/hBBv32NRqmtNCVS48f7UHrSogkz\nk9AVxJuWVN9pPhMnbU5Qixdxt/Blyc//yXlYpSBcJ/cYgZWTpHi5S8CA1RJq\nGKcnthRylklT309aOmQxUdDHGKOgvPmRk26yA1+INDZNyzAxFIrWbyi1qdqs\nfdLiI7hC+45qTAdq1IDBsHuUB20hT0MuK9DRPchrfQEZgNlqfdAS2CkzyuJ4\nI2y9Cjamn++9zABFGLpImjQyZvbS655msVSmjLKPWGCyBRt+rNCFE88RzHmW\nxADwVCQHsvdSZmQsu5e0QvPrkf/L4877/pdbwZfHO0wM8KVVMgE/BNY5/mIw\n7N/dYOl5EJ1qejqrjx9/b+Aw9ybjKdoqpbdz1tu84gNWEERarsNUuSVAREaV\nOcvR7fxYaaBWSJy1Ix0odAkzWpwEJPjcYVTE77kUvTivzvXnyeCrGXQI07KC\nenhk\r\n=PQb8\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "email": "andrey@sitnik.ru",
+      "name": "ai"
+    },
+    {
+      "email": "gucong@gmail.com",
+      "name": "gucong"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/postcss-styled_0.31.0_1530268926115_0.9404610929823598"
+  },
+  "_shasum": "ab532a2b3c469dfcca306a7623c4d4a98bb077d5",
+  "_resolved": "https://registry.npmjs.org/postcss-styled/-/postcss-styled-0.31.0.tgz",
+  "_from": "postcss-styled@>=0.31.0 <0.32.0"
+}

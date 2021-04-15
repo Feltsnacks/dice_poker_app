@@ -1,0 +1,64 @@
+{
+  "name": "debug-fabulous",
+  "version": "0.2.1",
+  "description": "visionmedia debug extensions rolled into one",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint !./node_modules *.js ./**/*.js",
+    "mocha": "mocha",
+    "test": "npm run lint && mocha ./test/**/*test.js ./test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/nmccready/debug-fabulous"
+  },
+  "keywords": [
+    "debug",
+    "lazy",
+    "lazy-eval"
+  ],
+  "author": {
+    "name": "Nicholas McCready"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "3.X",
+    "memoizee": "0.4.X",
+    "object-assign": "4.X"
+  },
+  "devDependencies": {
+    "chai": "3.X",
+    "eslint": "3.X",
+    "hook-std": "0.X",
+    "memwatch-next": "0.3.X",
+    "mocha": "3.X"
+  },
+  "gitHead": "2da277367333fc9c19c2d2f79c6c0f6ba5cee366",
+  "_id": "debug-fabulous@0.2.1",
+  "_npmVersion": "5.2.0",
+  "_nodeVersion": "6.10.3",
+  "_npmUser": {
+    "name": "nmccready",
+    "email": "nemtcan@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-u0TV6HcfLsZ03xLBhdhSViQMldaiQ2o+8/nSILaXkuNSWvxkx66vYJUAam0Eu7gAilJRX/69J4kKdqajQPaPyw==",
+    "shasum": "57e1164ba0e9ad6d9a65f20075ff3c2bd6bde0dc",
+    "tarball": "https://registry.npmjs.org/debug-fabulous/-/debug-fabulous-0.2.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nmccready",
+      "email": "nemtcan@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/debug-fabulous-0.2.1.tgz_1506655136446_0.6122905733063817"
+  },
+  "directories": {},
+  "_shasum": "57e1164ba0e9ad6d9a65f20075ff3c2bd6bde0dc",
+  "_resolved": "https://registry.npmjs.org/debug-fabulous/-/debug-fabulous-0.2.1.tgz",
+  "_from": "debug-fabulous@>=0.1.1",
+  "readme": "ERROR: No README data found!"
+}

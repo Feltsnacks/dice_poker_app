@@ -1,0 +1,32 @@
+{
+  "name": "nf-header",
+  "version": "1.0.1",
+  "description": "Header component for react native",
+  "main": "native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "author": {
+    "name": "New by Sigma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-native-router-flux": "^3.34.0",
+    "react-native": "0.31.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-react-native": "^1.9.0"
+  },
+  "gitHead": "6c4f5c60202c8976acbfb4cbad8dc53ffcc7c3c2",
+  "readme": "ERROR: No README data found!",
+  "_id": "nf-header@1.0.1",
+  "_shasum": "1ba3d8c2379b5ced1cdbce0186d3f4fa5f53b878",
+  "_from": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-header#master",
+  "_resolved": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-header#6c4f5c60202c8976acbfb4cbad8dc53ffcc7c3c2"
+}

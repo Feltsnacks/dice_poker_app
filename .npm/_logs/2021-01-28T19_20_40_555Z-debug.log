@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'start' ]
+2 info using npm@6.14.8
+3 info using node@v12.18.3
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle heim-middleware@0.0.1~prestart: heim-middleware@0.0.1
+6 info lifecycle heim-middleware@0.0.1~start: heim-middleware@0.0.1
+7 verbose lifecycle heim-middleware@0.0.1~start: unsafe-perm in lifecycle true
+8 verbose lifecycle heim-middleware@0.0.1~start: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/MagNor/Repos/Heimstaden/heim-middleware/heim-middleware/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/git/bin
+9 verbose lifecycle heim-middleware@0.0.1~start: CWD: /Users/MagNor/Repos/Heimstaden/heim-middleware/heim-middleware
+10 silly lifecycle heim-middleware@0.0.1~start: Args: [ '-c', 'nest start' ]
+11 silly lifecycle heim-middleware@0.0.1~start: Returned: code: 1  signal: null
+12 info lifecycle heim-middleware@0.0.1~start: Failed to exec start script
+13 verbose stack Error: heim-middleware@0.0.1 start: `nest start`
+13 verbose stack Exit status 1
+13 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+13 verbose stack     at EventEmitter.emit (events.js:315:20)
+13 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:315:20)
+13 verbose stack     at maybeClose (internal/child_process.js:1021:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:286:5)
+14 verbose pkgid heim-middleware@0.0.1
+15 verbose cwd /Users/MagNor/Repos/Heimstaden/heim-middleware/heim-middleware
+16 verbose Darwin 19.6.0
+17 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "start"
+18 verbose node v12.18.3
+19 verbose npm  v6.14.8
+20 error code ELIFECYCLE
+21 error errno 1
+22 error heim-middleware@0.0.1 start: `nest start`
+22 error Exit status 1
+23 error Failed at the heim-middleware@0.0.1 start script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 1, true ]

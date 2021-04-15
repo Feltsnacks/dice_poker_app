@@ -1,0 +1,45 @@
+{
+  "name": "@types/vinyl",
+  "version": "2.0.0",
+  "description": "TypeScript definitions for vinyl",
+  "license": "MIT",
+  "author": {
+    "name": "vvakame",
+    "email": "https://github.com/vvakame/"
+  },
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "b875b3cdca65a3045dc53944d75b5ddebe77a1f002096abddad689645786e89e",
+  "_id": "@types/vinyl@2.0.0",
+  "dist": {
+    "shasum": "fd213bf7f4136dde21fe1895500b12c186f8c268",
+    "tarball": "https://registry.npmjs.org/@types/vinyl/-/vinyl-2.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/vinyl-2.0.0.tgz_1480446163271_0.6720847182441503"
+  },
+  "directories": {},
+  "_shasum": "fd213bf7f4136dde21fe1895500b12c186f8c268",
+  "_resolved": "https://registry.npmjs.org/@types/vinyl/-/vinyl-2.0.0.tgz",
+  "_from": "@types/vinyl@*",
+  "readme": "ERROR: No README data found!"
+}

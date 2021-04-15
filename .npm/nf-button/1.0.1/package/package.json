@@ -1,0 +1,29 @@
+{
+  "name": "nf-button",
+  "version": "1.0.1",
+  "description": "Button component for native",
+  "main": "native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "author": {
+    "name": "New by Sigma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-native": "^1.9.0"
+  },
+  "gitHead": "2994ecf435206f17645124c362de061a6eef0108",
+  "readme": "ERROR: No README data found!",
+  "_id": "nf-button@1.0.1",
+  "_shasum": "4afb47bb90e6f471c276717f447c20079274ef20",
+  "_from": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-button#master",
+  "_resolved": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-button#2994ecf435206f17645124c362de061a6eef0108"
+}

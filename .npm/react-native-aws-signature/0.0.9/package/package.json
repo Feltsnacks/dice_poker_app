@@ -1,0 +1,64 @@
+{
+  "name": "react-native-aws-signature",
+  "version": "0.0.9",
+  "description": "generate aws signature v4 for react-native",
+  "main": "./lib/AWSSignature.js",
+  "scripts": {
+    "test": "jasmine",
+    "cover": "istanbul cover jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leimd/AWSSignature.git"
+  },
+  "keywords": [
+    "react-native",
+    "aws",
+    "signature",
+    "react"
+  ],
+  "author": {
+    "name": "Tom Lei",
+    "email": "tomlei90@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leimd/AWSSignature/issues"
+  },
+  "homepage": "https://github.com/leimd/AWSSignature#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.2",
+    "jasmine": "^2.4.1"
+  },
+  "gitHead": "77ca147b4ae4da4faaff1b4c770d16cb66d7503b",
+  "_id": "react-native-aws-signature@0.0.9",
+  "_shasum": "443e7b11947ac3187e8e40e4beb12b74f8869834",
+  "_from": "react-native-aws-signature@0.0.9",
+  "_npmVersion": "3.4.0",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "name": "leimd",
+    "email": "tomlei90@gmail.com"
+  },
+  "dist": {
+    "shasum": "443e7b11947ac3187e8e40e4beb12b74f8869834",
+    "tarball": "https://registry.npmjs.org/react-native-aws-signature/-/react-native-aws-signature-0.0.9.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "leimd",
+      "email": "tomlei90@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-aws-signature-0.0.9.tgz_1455685517875_0.5621038277167827"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-aws-signature/-/react-native-aws-signature-0.0.9.tgz",
+  "readme": "ERROR: No README data found!"
+}

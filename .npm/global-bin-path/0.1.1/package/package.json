@@ -1,0 +1,66 @@
+{
+  "name": "global-bin-path",
+  "version": "0.1.1",
+  "description": "Return absolute path for global module executables",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "xo": {
+    "space": true,
+    "rules": {
+      "semi": 0,
+      "curly": 0
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QingWei-Li/global-bin-path.git"
+  },
+  "keywords": [
+    "executable",
+    "modules",
+    "path",
+    "global"
+  ],
+  "author": {
+    "name": "qingwei-li",
+    "email": "cinwell.li@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QingWei-Li/global-bin-path/issues"
+  },
+  "homepage": "https://github.com/QingWei-Li/global-bin-path#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "sync-exec": "^0.6.2",
+    "xo": "^0.16.0"
+  },
+  "gitHead": "5abbe88c2867ec604c48379285ae8eb054f52b43",
+  "_id": "global-bin-path@0.1.1",
+  "_shasum": "3ecec7c23b4bb9405291c14140e74abe755d9b55",
+  "_from": "global-bin-path@*",
+  "_npmVersion": "4.0.5",
+  "_nodeVersion": "7.4.0",
+  "_npmUser": {
+    "name": "qingwei.li",
+    "email": "cinwell.li@gmail.com"
+  },
+  "dist": {
+    "shasum": "3ecec7c23b4bb9405291c14140e74abe755d9b55",
+    "tarball": "https://registry.npmjs.org/global-bin-path/-/global-bin-path-0.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "qingwei.li",
+      "email": "cinwell.li@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/global-bin-path-0.1.1.tgz_1485772885316_0.43107405374757946"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/global-bin-path/-/global-bin-path-0.1.1.tgz"
+}

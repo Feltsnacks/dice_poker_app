@@ -1,0 +1,55 @@
+{
+  "name": "@angular/core",
+  "version": "4.4.6",
+  "description": "Angular - the core framework",
+  "main": "./bundles/core.umd.js",
+  "module": "./@angular/core.es5.js",
+  "es2015": "./@angular/core.js",
+  "typings": "./core.d.ts",
+  "author": {
+    "name": "angular"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular#readme",
+  "_id": "@angular/core@4.4.6",
+  "scripts": {},
+  "_shasum": "13031fd10dcfe438875419b38f21120958bc2354",
+  "_from": "@angular/core@>=4.3.6 <5.0.0",
+  "_resolved": "https://registry.npmjs.org/@angular/core/-/core-4.4.6.tgz",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "13031fd10dcfe438875419b38f21120958bc2354",
+    "tarball": "https://registry.npmjs.org/@angular/core/-/core-4.4.6.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/core-4.4.6.tgz_1508372353077_0.9467155307065696"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

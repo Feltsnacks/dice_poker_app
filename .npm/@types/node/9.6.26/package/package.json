@@ -1,0 +1,172 @@
+{
+  "name": "@types/node",
+  "version": "9.6.26",
+  "description": "TypeScript definitions for Node.js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Microsoft TypeScript",
+      "url": "http://typescriptlang.org"
+    },
+    {
+      "name": "DefinitelyTyped",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+    },
+    {
+      "name": "Parambir Singh",
+      "url": "https://github.com/parambirs",
+      "githubUsername": "parambirs"
+    },
+    {
+      "name": "Christian Vaagland Tellnes",
+      "url": "https://github.com/tellnes",
+      "githubUsername": "tellnes"
+    },
+    {
+      "name": "Wilco Bakker",
+      "url": "https://github.com/WilcoBakker",
+      "githubUsername": "WilcoBakker"
+    },
+    {
+      "name": "Nicolas Voigt",
+      "url": "https://github.com/octo-sniffle",
+      "githubUsername": "octo-sniffle"
+    },
+    {
+      "name": "Chigozirim C.",
+      "url": "https://github.com/smac89",
+      "githubUsername": "smac89"
+    },
+    {
+      "name": "Flarna",
+      "url": "https://github.com/Flarna",
+      "githubUsername": "Flarna"
+    },
+    {
+      "name": "Mariusz Wiktorczyk",
+      "url": "https://github.com/mwiktorczyk",
+      "githubUsername": "mwiktorczyk"
+    },
+    {
+      "name": "wwwy3y3",
+      "url": "https://github.com/wwwy3y3",
+      "githubUsername": "wwwy3y3"
+    },
+    {
+      "name": "Deividas Bakanas",
+      "url": "https://github.com/DeividasBakanas",
+      "githubUsername": "DeividasBakanas"
+    },
+    {
+      "name": "Kelvin Jin",
+      "url": "https://github.com/kjin",
+      "githubUsername": "kjin"
+    },
+    {
+      "name": "Alvis HT Tang",
+      "url": "https://github.com/alvis",
+      "githubUsername": "alvis"
+    },
+    {
+      "name": "Sebastian Silbermann",
+      "url": "https://github.com/eps1lon",
+      "githubUsername": "eps1lon"
+    },
+    {
+      "name": "Hannes Magnusson",
+      "url": "https://github.com/Hannes-Magnusson-CK",
+      "githubUsername": "Hannes-Magnusson-CK"
+    },
+    {
+      "name": "Alberto Schiabel",
+      "url": "https://github.com/jkomyno",
+      "githubUsername": "jkomyno"
+    },
+    {
+      "name": "Klaus Meinhardt",
+      "url": "https://github.com/ajafff",
+      "githubUsername": "ajafff"
+    },
+    {
+      "name": "Huw",
+      "url": "https://github.com/hoo29",
+      "githubUsername": "hoo29"
+    },
+    {
+      "name": "Nicolas Even",
+      "url": "https://github.com/n-e",
+      "githubUsername": "n-e"
+    },
+    {
+      "name": "Bruno Scheufler",
+      "url": "https://github.com/brunoscheufler",
+      "githubUsername": "brunoscheufler"
+    },
+    {
+      "name": "Mohsen Azimi",
+      "url": "https://github.com/mohsen1",
+      "githubUsername": "mohsen1"
+    },
+    {
+      "name": "Hoàng Văn Khải",
+      "url": "https://github.com/KSXGitHub",
+      "githubUsername": "KSXGitHub"
+    },
+    {
+      "name": "Alexander T.",
+      "url": "https://github.com/a-tarasyuk",
+      "githubUsername": "a-tarasyuk"
+    },
+    {
+      "name": "Lishude",
+      "url": "https://github.com/islishude",
+      "githubUsername": "islishude"
+    },
+    {
+      "name": "Andrew Makarov",
+      "url": "https://github.com/r3nya",
+      "githubUsername": "r3nya"
+    },
+    {
+      "name": "Eugene Y. Q. Shen",
+      "url": "https://github.com/eyqs",
+      "githubUsername": "eyqs"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "879abf70f5a6be5f60e12ce247f4cb3f06ee0d1805ac607eded888863868d9fd",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/node@9.6.26",
+  "dist": {
+    "integrity": "sha512-3LKKscYUZdZreOuvnly8oWsCA1TOWtmkV3mbcUnV34f+nqDWJic+4SGjRi1C/sPHnZcSs/x209O+Dgy8aWHt2A==",
+    "shasum": "cd9d021f3e43f16a62e1b1cfa38b00ae4cfbebac",
+    "tarball": "https://registry.npmjs.org/@types/node/-/node-9.6.26.tgz",
+    "fileCount": 5,
+    "unpackedSize": 474805,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbaOhaCRA9TVsSAnZWagAA4TkQAJxaKndA8Cd8NLImmpEY\nkIH4C6xsiGeOhwQw+LwfJYzSASKTzs3630VN7AwzJCXlOcI9oKIoUTDrvdgF\nSW8fD6GFhUWIzd+F+pRI826DOYAeI9wrCKrU1WQlvSefXClJE58BT02qQ6aH\nux9L6ivvHjv8vYqLuRjc2QOhdh16H/hd3H6doRXG7ownb6oMKvpvCbqT0FUW\nUQKus2N/F3kTd5TY28y9ZtVpf4uur0eEeQfoZBCePcW47dLcvFT+NAMHYr/4\ngYvXLPOKiLwbwIpitqjLENwtXzB559QXP8QFnJqTcEttREJNhSIg6XTIS2vl\nBRgAc937jlx/hGhzK6odVTj8Rb90AaMbP6gHH6yrf93zCYw8q83x6fKBqqmY\nlKItafLMmqxODFrmxYeeet6ZMXsQqtmFh+rd4xpLSBymHlNUFxJS/kS1wVkt\nMYNNStl8sRPFZc2glgGw0uR5Bag+0t7eAivVjLtPlw1S0jeQ5SKHQuIXXkL0\nle8/cHjtNnMDeY7kcNyteu8ntfZAqtEvCTHlzbgzDpdbUHHkbN4gKtCrWwYZ\nK7wMIOBxe7r5aXiQKR+xBvPcDreIaxkcdDDtdu2MaTtgsJbm+pK97PpQrA9a\nvBABNiKmreB8ObZG7rfLcSr3ZllgnQqbiJYIwB443l/8mCdApMKgkHuC9zDo\nFdb3\r\n=sHOu\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/node_9.6.26_1533601881973_0.5509691808935946"
+  },
+  "_shasum": "cd9d021f3e43f16a62e1b1cfa38b00ae4cfbebac",
+  "_resolved": "https://registry.npmjs.org/@types/node/-/node-9.6.26.tgz",
+  "_from": "@types/node@>=9.6.16 <10.0.0"
+}

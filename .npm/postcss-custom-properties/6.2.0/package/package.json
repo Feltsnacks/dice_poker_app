@@ -1,0 +1,86 @@
+{
+  "name": "postcss-custom-properties",
+  "version": "6.2.0",
+  "description": "PostCSS plugin to polyfill W3C CSS Custom Properties for cascading variables",
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin",
+    "custom-properties",
+    "variables",
+    "vars"
+  ],
+  "author": {
+    "name": "Maxime Thirouin"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcss/postcss-custom-properties.git"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "postcss": "^6.0.13"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.8.0",
+    "npmpub": "^3.1.0",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "lint": "eslint *.js index.js ./test/",
+    "tape": "tape -r babel-register test/*.js",
+    "test": "npm run lint && npm run babelify && npm run tape",
+    "babelify": "babel index.js --out-dir dist",
+    "prepublish": "npm run babelify",
+    "release": "npmpub"
+  },
+  "gitHead": "025db4d90f39ba6ea4ae37aa618d899cb74651c1",
+  "bugs": {
+    "url": "https://github.com/postcss/postcss-custom-properties/issues"
+  },
+  "homepage": "https://github.com/postcss/postcss-custom-properties#readme",
+  "_id": "postcss-custom-properties@6.2.0",
+  "_npmVersion": "5.4.2",
+  "_nodeVersion": "8.6.0",
+  "_npmUser": {
+    "name": "jonathantneal",
+    "email": "jonathantneal@hotmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-eNR2h9T9ciKMoQEORrPjH33XeN/nuvVuxArOKmHtsFbGbNss631tgTrKou3/pmjAZbA4QQkhLIkPQkIk3WW+8w==",
+    "shasum": "5d929a7f06e9b84e0f11334194c0ba9a30acfbe9",
+    "tarball": "https://registry.npmjs.org/postcss-custom-properties/-/postcss-custom-properties-6.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jonathantneal",
+      "email": "jonathantneal@hotmail.com"
+    },
+    {
+      "name": "moox",
+      "email": "m@moox.io"
+    },
+    {
+      "name": "semigradsky",
+      "email": "semigradskyd@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/postcss-custom-properties-6.2.0.tgz_1507311658728_0.8044652077369392"
+  },
+  "directories": {},
+  "_shasum": "5d929a7f06e9b84e0f11334194c0ba9a30acfbe9",
+  "_resolved": "https://registry.npmjs.org/postcss-custom-properties/-/postcss-custom-properties-6.2.0.tgz",
+  "_from": "postcss-custom-properties@>=6.1.0 <7.0.0",
+  "readme": "ERROR: No README data found!"
+}

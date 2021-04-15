@@ -1,0 +1,51 @@
+{
+  "name": "@types/gulp-util",
+  "version": "3.0.34",
+  "description": "TypeScript definitions for gulp-util",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "jedmao",
+      "url": "https://github.com/jedmao",
+      "githubUsername": "jedmao"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "@types/vinyl": "*",
+    "@types/through2": "*",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "e944f750f1f823ed3f1695ebb48bea23acd57cabc0239a1be7c3a55f8475ef31",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp-util@3.0.34",
+  "dist": {
+    "integrity": "sha512-E06WN1OfqL5UsMwJ1T7ClgnaXgaPipb7Ee8euMc3KRHLNqxdvWrDir9KA6uevgzBgT7XbjgmzZA2pkzDqBBX7A==",
+    "shasum": "d1291ebf706d93f46eb8df11344bbfd96247697e",
+    "tarball": "https://registry.npmjs.org/@types/gulp-util/-/gulp-util-3.0.34.tgz"
+  },
+  "maintainers": [
+    {
+      "email": "ts-npm-types@microsoft.com",
+      "name": "types"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gulp-util-3.0.34.tgz_1510217065498_0.2542653235141188"
+  },
+  "directories": {},
+  "_shasum": "d1291ebf706d93f46eb8df11344bbfd96247697e",
+  "_resolved": "https://registry.npmjs.org/@types/gulp-util/-/gulp-util-3.0.34.tgz",
+  "_from": "@types/gulp-util@>=3.0.31 <4.0.0"
+}

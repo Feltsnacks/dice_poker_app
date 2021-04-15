@@ -1,0 +1,79 @@
+{
+  "name": "angular2-signaturepad",
+  "version": "2.8.0",
+  "description": "Angular2 Component wrapper for szimek / signature_pad",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "prepublish": "node ./node_modules/@angular/compiler-cli/src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfsolter/angular2-signaturepad.git"
+  },
+  "keywords": [
+    "signature",
+    "sign",
+    "finger",
+    "canvas"
+  ],
+  "author": {
+    "name": "Wulf Solter",
+    "email": "wulf@wulf.co.nz",
+    "url": "http://wulf.co.nz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wulfsolter/angular2-signaturepad/issues"
+  },
+  "homepage": "https://github.com/wulfsolter/angular2-signaturepad#readme",
+  "dependencies": {
+    "signature_pad": "2.3.2"
+  },
+  "devDependencies": {
+    "@angular/common": "2.0.1",
+    "@angular/compiler": "2.0.1",
+    "@angular/compiler-cli": "0.6.3",
+    "@angular/core": "2.0.1",
+    "@angular/platform-browser": "2.0.1",
+    "@angular/platform-browser-dynamic": "2.0.1",
+    "@angular/platform-server": "2.0.1",
+    "rxjs": "5.0.0-beta.12",
+    "typescript": "2.0.3",
+    "zone.js": "0.6.25"
+  },
+  "gitHead": "994f8386e33ba164336ced9de6944b1fa5dc4e25",
+  "_id": "angular2-signaturepad@2.8.0",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.10.0",
+  "_npmUser": {
+    "name": "lathonez",
+    "email": "shazleto@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-K7EZwvfAdRMFfFegzhapk4cEEgQXQW8En9K254OBenKon4HSHT7zVVRC20juwVW/H/XDy+D5km3Fbj4WnFV8IQ==",
+    "shasum": "890a66998e6b98914faa2e158b535926c9fd8798",
+    "tarball": "https://registry.npmjs.org/angular2-signaturepad/-/angular2-signaturepad-2.8.0.tgz",
+    "fileCount": 11,
+    "unpackedSize": 26425
+  },
+  "maintainers": [
+    {
+      "name": "lathonez",
+      "email": "shazleto@gmail.com"
+    },
+    {
+      "name": "wulfsolter",
+      "email": "wulf@wulf.co.nz"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular2-signaturepad_2.8.0_1521492157020_0.19077078399129488"
+  },
+  "_shasum": "890a66998e6b98914faa2e158b535926c9fd8798",
+  "_resolved": "https://registry.npmjs.org/angular2-signaturepad/-/angular2-signaturepad-2.8.0.tgz",
+  "_from": "angular2-signaturepad@>=2.8.0 <3.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "@types/gulp-protractor",
+  "version": "1.0.30",
+  "description": "TypeScript definitions for gulp-protractor",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Tanguy Krotoff",
+      "url": "https://github.com/tkrotoff"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/gulp": "*",
+    "@types/node": "*"
+  },
+  "peerDependencies": {},
+  "typesPublisherContentHash": "c74efd875dc98d77064b422283661e2026f5a68c818ce31d4853d9eefe6ee2ad",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/gulp-protractor@1.0.30",
+  "dist": {
+    "shasum": "185d8463790b1a4fb554941c04918c09657fe90b",
+    "tarball": "https://registry.npmjs.org/@types/gulp-protractor/-/gulp-protractor-1.0.30.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-protractor-1.0.30.tgz_1489541527885_0.1262648452538997"
+  },
+  "directories": {},
+  "_shasum": "185d8463790b1a4fb554941c04918c09657fe90b",
+  "_resolved": "https://registry.npmjs.org/@types/gulp-protractor/-/gulp-protractor-1.0.30.tgz",
+  "_from": "@types/gulp-protractor@>=1.0.29 <2.0.0",
+  "readme": "ERROR: No README data found!"
+}

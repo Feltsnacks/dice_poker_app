@@ -1,0 +1,39 @@
+{
+  "name": "nf-input-image",
+  "version": "1.0.1",
+  "description": "Image input, image picker.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "author": {
+    "name": "New by Sigma"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-native": "^0.31.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-native": "^1.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "empty-module": "0.0.2",
+    "mobx": "^2.4.3",
+    "mobx-react": "^3.5.5",
+    "webpack": "^1.13.2",
+    "webpack-node-externals": "^1.3.3"
+  },
+  "gitHead": "08508ba8f77f087bfeb51bb584937f7c69982d41",
+  "readme": "ERROR: No README data found!",
+  "_id": "nf-input-image@1.0.1",
+  "_shasum": "d307460b9618ca26a808158290033e62a152f7c3",
+  "_from": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-image#master",
+  "_resolved": "git+ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-input-image#08508ba8f77f087bfeb51bb584937f7c69982d41"
+}

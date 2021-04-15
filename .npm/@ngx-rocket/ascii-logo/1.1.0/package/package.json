@@ -1,0 +1,70 @@
+{
+  "name": "@ngx-rocket/ascii-logo",
+  "version": "1.1.0",
+  "description": "Super-awesome ngX-Rocket ASCII logo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-rocket/ascii-logo.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js && node test",
+    "postpublish": "git tag -a $npm_package_version -m '$npm_package_version' && git push --tags"
+  },
+  "keywords": [
+    "ngx",
+    "rocket",
+    "angular",
+    "awesome",
+    "ascii",
+    "logo"
+  ],
+  "author": {
+    "name": "Yohan Lasorsa"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ngx-rocket/ascii-logo",
+  "bugs": {
+    "url": "https://github.com/ngx-rocket/ascii-logo/issues"
+  },
+  "dependencies": {
+    "chalk": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-xo-space": "^0.16.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space/esnext"
+  },
+  "gitHead": "d8e5ccffa9fd6f13a0e62e05254a63b173dea47e",
+  "_id": "@ngx-rocket/ascii-logo@1.1.0",
+  "_shasum": "dfd955150e3e99e224b59d5f4273e44125d03e98",
+  "_from": "@ngx-rocket/ascii-logo@>=1.0.1 <2.0.0",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "7.9.0",
+  "_npmUser": {
+    "name": "sinedied",
+    "email": "noda@free.fr"
+  },
+  "maintainers": [
+    {
+      "name": "sinedied",
+      "email": "noda@free.fr"
+    }
+  ],
+  "dist": {
+    "shasum": "dfd955150e3e99e224b59d5f4273e44125d03e98",
+    "tarball": "https://registry.npmjs.org/@ngx-rocket/ascii-logo/-/ascii-logo-1.1.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ascii-logo-1.1.0.tgz_1500279272373_0.9842789059039205"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@ngx-rocket/ascii-logo/-/ascii-logo-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

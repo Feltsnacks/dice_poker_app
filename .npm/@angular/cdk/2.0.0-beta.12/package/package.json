@@ -1,0 +1,59 @@
+{
+  "name": "@angular/cdk",
+  "version": "2.0.0-beta.12",
+  "description": "Angular Material Component Development Kit",
+  "main": "./bundles/cdk.umd.js",
+  "module": "./esm5/cdk.es5.js",
+  "es2015": "./esm2015/cdk.js",
+  "typings": "./cdk.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/material2.git"
+  },
+  "keywords": [
+    "angular",
+    "cdk",
+    "component",
+    "development",
+    "kit"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/material2/issues"
+  },
+  "homepage": "https://github.com/angular/material2#readme",
+  "peerDependencies": {
+    "@angular/core": "~4.4.4",
+    "@angular/common": "~4.4.4"
+  },
+  "dependencies": {
+    "tslib": "^1.7.1"
+  },
+  "_id": "@angular/cdk@2.0.0-beta.12",
+  "scripts": {},
+  "_shasum": "3a243cb62b93f4e039120ba70f900dc9e235622e",
+  "_from": "@angular/cdk@>=2.0.0-beta.10 <3.0.0",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "shasum": "3a243cb62b93f4e039120ba70f900dc9e235622e",
+    "tarball": "https://registry.npmjs.org/@angular/cdk/-/cdk-2.0.0-beta.12.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cdk-2.0.0-beta.12.tgz_1507246798151_0.8973107798956335"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@angular/cdk/-/cdk-2.0.0-beta.12.tgz",
+  "readme": "ERROR: No README data found!"
+}

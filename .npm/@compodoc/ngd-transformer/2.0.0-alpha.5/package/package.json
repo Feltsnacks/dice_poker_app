@@ -1,0 +1,76 @@
+{
+  "name": "@compodoc/ngd-transformer",
+  "version": "2.0.0-alpha.5",
+  "description": "A set of transformers for @compodoc/ngd",
+  "main": "dist/index.js",
+  "scripts": {
+    "prextest": "npm run compile:src && npm run compile:tests",
+    "xtest": "mocha --opts test/mocha.opts",
+    "compile:tests": "tsc -p test/tsconfig-test.json",
+    "compile:src": "tsc --newLine LF",
+    "prexpublish": "npm run compile:src && npm run xtest",
+    "deploy": "npm run compile:src && npm xpublish"
+  },
+  "homepage": "https://github.com/compodoc/ngd",
+  "bugs": {
+    "url": "https://github.com/compodoc/ngd/issues"
+  },
+  "author": {
+    "name": "Wassim CHEGHAM"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "contributors": [
+    {
+      "name": "vogloblinsky"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compodoc/ngd.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "@compodoc/ngd-core": "2.0.0-alpha.3",
+    "dot": "^1.1.1",
+    "fs-extra": "^4.0.1",
+    "viz.js": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.4",
+    "@types/mocha": "^2.2.32",
+    "@types/node": "^8.0.24",
+    "chai": "^4.1.1",
+    "mocha": "^3.1.2"
+  },
+  "types": "dist/index.d.ts",
+  "_id": "@compodoc/ngd-transformer@2.0.0-alpha.5",
+  "_npmVersion": "5.3.0",
+  "_nodeVersion": "8.3.0",
+  "_npmUser": {
+    "name": "compodoc",
+    "email": "compodoc.github@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-gA6AgVgPXvlL4MtzzgMWB4FzQsQHndXpRQGWZ9NzQFpl+Qcyko+CMVU+ssqSwp/JAidL/3l3fk/aDDlymhJJag==",
+    "shasum": "f7cb05a1df81b36e79209c61bc7026b5361d99f6",
+    "tarball": "https://registry.npmjs.org/@compodoc/ngd-transformer/-/ngd-transformer-2.0.0-alpha.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "compodoc",
+      "email": "compodoc.github@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ngd-transformer-2.0.0-alpha.5.tgz_1503665164415_0.7378897813614458"
+  },
+  "directories": {},
+  "_shasum": "f7cb05a1df81b36e79209c61bc7026b5361d99f6",
+  "_resolved": "https://registry.npmjs.org/@compodoc/ngd-transformer/-/ngd-transformer-2.0.0-alpha.5.tgz",
+  "_from": "@compodoc/ngd-transformer@>=2.0.0-alpha.3 <3.0.0",
+  "readme": "ERROR: No README data found!"
+}

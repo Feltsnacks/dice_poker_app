@@ -1,0 +1,54 @@
+{
+  "name": "@types/vinyl-fs",
+  "version": "2.4.8",
+  "description": "TypeScript definitions for vinyl-fs",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "vvakame",
+      "url": "https://github.com/vvakame"
+    },
+    {
+      "name": "remisery",
+      "url": "https://github.com/remisery"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/vinyl": "*",
+    "@types/glob-stream": "*",
+    "@types/node": "*"
+  },
+  "typesPublisherContentHash": "8eefc4a905f4d7b245aed9627f8e3a435dd04523cb6995fb26d29cb713aac555",
+  "typeScriptVersion": "2.0",
+  "_id": "@types/vinyl-fs@2.4.8",
+  "dist": {
+    "integrity": "sha512-yE2pN9OOrxJVeO7IZLHAHrh5R4Q0osbn5WQRuQU6GdXoK7dNFrMK3K7YhATkzf3z0yQBkol3+gafs7Rp0s7dDg==",
+    "shasum": "cd55c0c625e8ba02858992d9c7265a343704ca77",
+    "tarball": "https://registry.npmjs.org/@types/vinyl-fs/-/vinyl-fs-2.4.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/vinyl-fs-2.4.8.tgz_1508948772206_0.06253048917278647"
+  },
+  "directories": {},
+  "_shasum": "cd55c0c625e8ba02858992d9c7265a343704ca77",
+  "_resolved": "https://registry.npmjs.org/@types/vinyl-fs/-/vinyl-fs-2.4.8.tgz",
+  "_from": "@types/vinyl-fs@*",
+  "readme": "ERROR: No README data found!"
+}

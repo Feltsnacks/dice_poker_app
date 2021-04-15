@@ -1,0 +1,69 @@
+{
+  "name": "@ngx-translate/core",
+  "description": "The internationalization (i18n) library for Angular",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngx-translate/core.git"
+  },
+  "keywords": [
+    "angular",
+    "angular 2",
+    "translate",
+    "i18n",
+    "ngx-translate"
+  ],
+  "author": {
+    "name": "Olivier Combe"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngx-translate/core/issues"
+  },
+  "homepage": "https://github.com/ngx-translate/core",
+  "peerDependencies": {
+    "@angular/core": ">=5.0.0",
+    "rxjs": ">=5.5.2"
+  },
+  "devDependencies": {
+    "semantic-release": "8.2.3"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "main": "bundles/core.umd.js",
+  "module": "@ngx-translate/core.es5.js",
+  "es2015": "@ngx-translate/core.js",
+  "typings": "core.d.ts",
+  "metadata": "core.metadata.json",
+  "version": "9.1.1",
+  "gitHead": "cfa1440568da5f794beca5028aad1c8b8189c3a9",
+  "_id": "@ngx-translate/core@9.1.1",
+  "_shasum": "ae103928836b8a9e069fd2e2e76fa2198cc7e628",
+  "_from": "@ngx-translate/core@>=9.1.1 <10.0.0",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "ocombe",
+    "email": "olivier.combe@gmail.com"
+  },
+  "dist": {
+    "shasum": "ae103928836b8a9e069fd2e2e76fa2198cc7e628",
+    "tarball": "https://registry.npmjs.org/@ngx-translate/core/-/core-9.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "email": "olivier.combe@gmail.com",
+      "name": "ngx-translate-ocombe"
+    },
+    {
+      "email": "olivier.combe@gmail.com",
+      "name": "ocombe"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/core-9.1.1.tgz_1516115318407_0.20362604060210288"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@ngx-translate/core/-/core-9.1.1.tgz"
+}

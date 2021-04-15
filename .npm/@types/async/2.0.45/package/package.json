@@ -1,0 +1,62 @@
+{
+  "name": "@types/async",
+  "version": "2.0.45",
+  "description": "TypeScript definitions for Async",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Boris Yankov",
+      "url": "https://github.com/borisyankov"
+    },
+    {
+      "name": "Arseniy Maximov",
+      "url": "https://github.com/kern0"
+    },
+    {
+      "name": "Joe Herman",
+      "url": "https://github.com/Penryn"
+    },
+    {
+      "name": "Angus Fenying",
+      "url": "https://github.com/fenying"
+    },
+    {
+      "name": "Pascal Martin",
+      "url": "https://github.com/pascalmartin"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typesPublisherContentHash": "6d7fbaf86065514e3eaa80d5f531f587701be40df9e8b5b38414a840156890bd",
+  "typeScriptVersion": "2.1",
+  "_id": "@types/async@2.0.45",
+  "dist": {
+    "integrity": "sha512-Gul4iUqYqrQQypJpwjqR24dcgJAAjvwncznGBGrINmcz73eHLWkmE8/YGAo4Dr0ADKBCBlkA+f58plzFIh6XAA==",
+    "shasum": "0cfe971d7ed5542695740338e0455c91078a0e83",
+    "tarball": "https://registry.npmjs.org/@types/async/-/async-2.0.45.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/async-2.0.45.tgz_1509404926197_0.5198809406720102"
+  },
+  "directories": {},
+  "_shasum": "0cfe971d7ed5542695740338e0455c91078a0e83",
+  "_resolved": "https://registry.npmjs.org/@types/async/-/async-2.0.45.tgz",
+  "_from": "@types/async@>=2.0.42 <3.0.0",
+  "readme": "ERROR: No README data found!"
+}

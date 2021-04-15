@@ -1,0 +1,134 @@
+{
+  "name": "postcss-syntax",
+  "version": "0.31.0",
+  "description": "Automatically switch PostCSS syntax by file extensions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucong3000/postcss-syntax.git"
+  },
+  "keywords": [
+    "postcss",
+    "syntax",
+    "switch",
+    "extension"
+  ],
+  "author": {
+    "name": "gucong"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gucong3000/postcss-syntax/issues"
+  },
+  "homepage": "https://github.com/gucong3000/postcss-syntax#readme",
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ],
+    "all": true,
+    "cache": true,
+    "check-coverage": true
+  },
+  "scripts": {
+    "test": "nyc mocha --require ./test/fixtures/link --no-timeouts"
+  },
+  "extensions": [
+    ".css",
+    ".pcss",
+    ".postcss",
+    ".acss",
+    ".wxss",
+    ".sass",
+    ".scss",
+    ".less",
+    ".sss",
+    ".js",
+    ".es6",
+    ".mjs",
+    ".pac",
+    ".jsx",
+    ".ts",
+    ".tsx",
+    ".babel",
+    ".flow",
+    ".html",
+    ".htm",
+    ".shtml",
+    ".xhtml",
+    ".mdoc",
+    ".jsp",
+    ".asp",
+    ".aspx",
+    ".jshtm",
+    ".volt",
+    ".ejs",
+    ".rhtml",
+    ".xsl",
+    ".xslt",
+    ".vue",
+    ".wpy",
+    ".ux",
+    ".php",
+    ".php4",
+    ".php5",
+    ".phtml",
+    ".ctp",
+    ".twig",
+    ".liquid",
+    ".md",
+    ".mdown",
+    ".markdown",
+    ".markdn"
+  ],
+  "peerDependencies": {
+    "postcss": ">=5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "codecov": "^3.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "postcss": "^6.0.23",
+    "postcss-html": ">=0.31.0",
+    "postcss-jsx": ">=0.31.0",
+    "postcss-less": "^2.0.0",
+    "postcss-markdown": ">=0.31.0",
+    "postcss-safe-parser": "^3.0.1",
+    "postcss-scss": "^1.0.6",
+    "proxyquire": "^2.0.1",
+    "sugarss": "^1.0.1"
+  },
+  "_id": "postcss-syntax@0.31.0",
+  "_npmVersion": "6.1.0",
+  "_nodeVersion": "8.11.2",
+  "_npmUser": {
+    "name": "gucong",
+    "email": "gucong@gmail.com"
+  },
+  "dist": {
+    "integrity": "sha512-siI3tp74W8paHBCfEEeSCta5GUnEEEztAbkyL87/tqwW6wl2o4CbRA6utW30n9gz/FEqe+eOhvVPXpbpqmcdWw==",
+    "shasum": "13d955c705d339595d10a19efa4a1bee82dfb78f",
+    "tarball": "https://registry.npmjs.org/postcss-syntax/-/postcss-syntax-0.31.0.tgz",
+    "fileCount": 16,
+    "unpackedSize": 21359,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbNg0RCRA9TVsSAnZWagAA7lMP/RWxWRHtitR5Q5jB9jpy\nWiIpu3SCNt94nGsoLw3r2iAcaqcUSIkcehzNOVwh9ATxsQ//tezXDCmmI2Ib\ns7+5/3O1r0fLCJLi79eMM9aMy+3DJF0SHccFaNKFqhiZIN5TDQ1I0dKKiLzg\nw2X3JxN9jyTseopHub5ZfSA7bmlTpuNeBdb4xWmCTX6fdodhcoAR/rldtB3S\njjErOBhfwRvoYqmQDuMdeY4SDRavA0SH0qoTowjuytJhT4r4Ji71uVpq9VoH\n/dz3laWrtkW5wR7wPUobbOnAS/vIr6OjBRwgoe6Ww2HEkr/xhStDYlnFYurP\n8mfCD7jlIn6hSc3qjy1MH3c+LyEBbtspLQRbvkymO3S1euOO6Mg9EYxjSyJE\nvB9vxnn3s5mcRYZQDj8Vkqah28tiayjIepDe7ucwUQGbMId5FqcSRtRYmER+\nnsGpdJbFluI4egJN/BgcbF65RxtBrmwk7xkKV7r+qAfBT7RzYRqpveBBSqWz\nnhchCRIW4DdkLOwW3+XxsUPE9I58RELss8ET5Ng4vhxFelRJ6tWL/HDp58fw\nHi85w4CoxIaFo+gRICcxG8fB+zTmkJydIDCOahg5RfgLTQ4tHfPN78HNyBGa\n8UC1uwfKmiIHA7CVxV/lS/mI9IhuAbdHBbU2AHQaGQr7ZQe8fw1NzUh8++uM\nOEEE\r\n=ewma\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "email": "andrey@sitnik.ru",
+      "name": "ai"
+    },
+    {
+      "email": "gucong@gmail.com",
+      "name": "gucong"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/postcss-syntax_0.31.0_1530268945104_0.09182542547539807"
+  },
+  "_shasum": "13d955c705d339595d10a19efa4a1bee82dfb78f",
+  "_resolved": "https://registry.npmjs.org/postcss-syntax/-/postcss-syntax-0.31.0.tgz",
+  "_from": "postcss-syntax@>=0.31.0 <0.32.0"
+}

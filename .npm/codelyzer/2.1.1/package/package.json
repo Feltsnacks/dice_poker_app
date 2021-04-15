@@ -1,0 +1,78 @@
+{
+  "name": "codelyzer",
+  "version": "2.1.1",
+  "description": "Linting for Angular applications, following angular.io/styleguide.",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Minko Gechev",
+      "email": "mgechev@gmail.com"
+    },
+    {
+      "name": "Preslav Semov",
+      "email": "preslavsemov@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgechev/codelyzer.git"
+  },
+  "keywords": [
+    "Angular",
+    "style guide",
+    "styleguide",
+    "nglint",
+    "codelyzer",
+    "lint",
+    "tslint"
+  ],
+  "author": {
+    "name": "Minko Gechev",
+    "email": "mgechev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgechev/codelyzer/issues"
+  },
+  "homepage": "https://github.com/mgechev/codelyzer#readme",
+  "peerDependencies": {
+    "tslint": "^4.0.0",
+    "@angular/compiler": "^2.3.1 || >=4.0.0-beta <5.0.0",
+    "@angular/core": "^2.3.1 || >=4.0.0-beta <5.0.0"
+  },
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "css-selector-tokenizer": "^0.7.0",
+    "cssauron": "^1.4.0",
+    "semver-dsl": "^1.0.1",
+    "source-map": "^0.5.6",
+    "sprintf-js": "^1.0.3"
+  },
+  "_id": "codelyzer@2.1.1",
+  "scripts": {},
+  "_shasum": "0573c7f8da4ac2a4473b0042807f7b901dec8b0a",
+  "_from": "codelyzer@>=2.1.1 <3.0.0",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "mgechev",
+    "email": "mgechev@gmail.com"
+  },
+  "dist": {
+    "shasum": "0573c7f8da4ac2a4473b0042807f7b901dec8b0a",
+    "tarball": "https://registry.npmjs.org/codelyzer/-/codelyzer-2.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mgechev",
+      "email": "mgechev@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/codelyzer-2.1.1.tgz_1490989927683_0.03453095117583871"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/codelyzer/-/codelyzer-2.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

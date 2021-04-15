@@ -1,0 +1,370 @@
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d801d21ec45a7d749919e727c4ec5f52e34ccc60	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+41f2806c054a1649f21ec03c4feba5dbac96a55c	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+41f2806c054a1649f21ec03c4feba5dbac96a55c	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+41f2806c054a1649f21ec03c4feba5dbac96a55c	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+41f2806c054a1649f21ec03c4feba5dbac96a55c	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1c8d3c4504f88dc31b66e75fd45653010f76c5dd	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d4e487762f9c10366af25e84511dbf91dc4d569c	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d61c05eb1697b6aff8b2d63f92c0c8cb0bf8ae5a	not-for-merge	'refs/changes/23/2723/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0016708bacd82e006f9a29e515b90bb37b79ff5c	not-for-merge	'refs/changes/23/2723/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+3a23d2952578d2f939714248737d32214b250fc4	not-for-merge	'refs/changes/23/2723/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+befc3f6c17be61c2d060001b586af68f7450e3e3	not-for-merge	'refs/changes/52/2852/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+6f5f4283d2a01f666e6bcb2b260d7a9ddd590230	not-for-merge	'refs/changes/53/2853/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d64cad1a141e6ac86f2a892db8734d710b765cd7	not-for-merge	'refs/changes/55/2855/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+227173d4f580a7a40915650de7cffefc08c82847	not-for-merge	'refs/changes/55/2855/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+525d2acba21db954c7c64ff3b150e5e73c2e3752	not-for-merge	'refs/changes/65/2865/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+dd3295546f287fd85310047bc64c72f132011254	not-for-merge	'refs/changes/65/2865/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+83ba832104e4d23061d82d0e09db53c83d47ce80	not-for-merge	'refs/changes/65/2865/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0901f91ff59305c74a0c241f66608d1fa0300af6	not-for-merge	'refs/changes/65/2865/4' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+d6f846c6538c4fe09abc3c70e77f00eba5bc09b5	not-for-merge	'refs/changes/71/2871/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+cb6a8c5d499b5b940a8aa6738c90c67a7cb8e2bf	not-for-merge	'refs/changes/71/2871/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+0d73453da51746c7b8b4a73c58f731ebccba57e5	not-for-merge	'refs/changes/72/2872/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+af9965ddcc455c583ba2ce5dae131dbf667eff9b	not-for-merge	'refs/changes/74/2874/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+a14fc51677c92a044f518b410dfd05e3a8e20f1b	not-for-merge	'refs/changes/79/2779/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+267923cf66579785f183a1c55d0aab165b6d911c	not-for-merge	'refs/changes/79/2779/2' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fc81af8af3b0036b53f7c268e117748eb1bbd72a	not-for-merge	'refs/changes/79/2779/3' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+00875b26bfe09bbbc31e033437f43ee12ac95d6d	not-for-merge	'refs/changes/87/2787/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+915ae5027ef4848affef79483225adbb0cb35134	not-for-merge	'refs/changes/91/2791/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	'refs/changes/94/2894/1' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c671f5bcbaa91808675bf03fded6fa359e78a3cc	not-for-merge	branch 'feature/native-test' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+73996288ffae820663e6e9d7ffffdc6ac87f85f6	not-for-merge	branch 'feature/testing' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+fe147fa92f20b94474dbeb72b2990933b1173200	not-for-merge	branch 'master' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+1f239253b0cd766ac9a2d4f5f1d2279a7582f3ed	not-for-merge	'refs/meta/config' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client
+c24cf388e1b7432fa5ce0704df3b824633f267c1	not-for-merge	'refs/notes/review' of ssh://gerrit.newbysigma.no:29418/SigmaITMNorway/NEW-Framework/react/nf-aws-gateway-client

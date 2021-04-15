@@ -1,0 +1,45 @@
+{
+  "name": "@types/micromatch",
+  "version": "2.3.29",
+  "description": "TypeScript definitions for micromatch 2.3.7",
+  "license": "MIT",
+  "author": {
+    "name": "glen-84",
+    "email": "https://github.com/glen-84"
+  },
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/parse-glob": "*"
+  },
+  "typings": "index.d.ts",
+  "typesPublisherContentHash": "2aa729713172aff71a81a21a9b1504ea759bf4de1b25dda4cf8b6a102c8a8342",
+  "_id": "@types/micromatch@2.3.29",
+  "dist": {
+    "shasum": "6ce0280fe96f500127f0c8c0addf2d3f207e8cec",
+    "tarball": "https://registry.npmjs.org/@types/micromatch/-/micromatch-2.3.29.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/micromatch-2.3.29.tgz_1474307573766_0.5734496647492051"
+  },
+  "directories": {},
+  "_shasum": "6ce0280fe96f500127f0c8c0addf2d3f207e8cec",
+  "_resolved": "https://registry.npmjs.org/@types/micromatch/-/micromatch-2.3.29.tgz",
+  "_from": "@types/micromatch@*",
+  "readme": "ERROR: No README data found!"
+}

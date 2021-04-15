@@ -1,0 +1,68 @@
+{
+  "name": "@angular-devkit/core",
+  "version": "0.3.2",
+  "description": "Angular DevKit - Core Utility Library",
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
+  "keywords": [
+    "angular",
+    "devkit",
+    "sdk",
+    "Angular DevKit",
+    "core"
+  ],
+  "dependencies": {
+    "ajv": "~5.5.1",
+    "chokidar": "^1.7.0",
+    "source-map": "^0.5.6",
+    "rxjs": "^5.5.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/devkit.git"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": {
+    "name": "Angular Authors"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/devkit/issues"
+  },
+  "homepage": "https://github.com/angular/devkit",
+  "_id": "@angular-devkit/core@0.3.2",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "angular",
+    "email": "devops+npm@angular.io"
+  },
+  "dist": {
+    "integrity": "sha512-zABk/iP7YX5SVbmK4e+IX7j2d0D37MQJQiKgWdV3JzfvVJhNJzddiirtT980pIafoq+KyvTgVwXtc+vnux0oeQ==",
+    "shasum": "b6fd6aa2e4f4ac3c39478198ba91a53d4c0f88d5",
+    "tarball": "https://registry.npmjs.org/@angular-devkit/core/-/core-0.3.2.tgz",
+    "fileCount": 79,
+    "unpackedSize": 436471
+  },
+  "maintainers": [
+    {
+      "email": "angular-core+npm@google.com",
+      "name": "angular"
+    },
+    {
+      "email": "hansl@google.com",
+      "name": "angular-devkit"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/core_0.3.2_1519266501775_0.18834518768133957"
+  },
+  "_shasum": "b6fd6aa2e4f4ac3c39478198ba91a53d4c0f88d5",
+  "_resolved": "https://registry.npmjs.org/@angular-devkit/core/-/core-0.3.2.tgz",
+  "_from": "@angular-devkit/core@0.3.2"
+}

@@ -1,0 +1,9 @@
+{
+  "metricId": "1cb7360f-9a27-47b7-96c8-63bb5400bd90",
+  "metrics": {
+    "from": "2018-08-10T15:47:30.371Z",
+    "to": "2021-04-14T08:26:30.450Z",
+    "successfulInstalls": 21,
+    "failedInstalls": 2
+  }
+}

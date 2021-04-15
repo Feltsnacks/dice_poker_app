@@ -1,0 +1,88 @@
+{
+  "name": "angular2-dependencies-graph",
+  "version": "1.0.0-alpha.12",
+  "description": "A tool to generate a component dependencies graph of an Angular2 application (written in typescript)",
+  "main": "dist/index.js",
+  "scripts": {
+    "pretest": "npm run compile:src && npm run compile:tests",
+    "test": "mocha --opts test/mocha.opts",
+    "compile:tests": "tsc -p test/tsconfig-test.json",
+    "compile:src": "tsc --newLine LF",
+    "prepublish": "npm run compile:src && npm test",
+    "deploy": "npm run compile:src && npm publish"
+  },
+  "bin": {
+    "ngd": "bin/index.js"
+  },
+  "homepage": "https://github.com/manekinekko/angular2-dependencies-graph",
+  "bugs": {
+    "url": "https://github.com/manekinekko/angular2-dependencies-graph/issues"
+  },
+  "author": {
+    "name": "Wassim CHEGHAM"
+  },
+  "engines": {
+    "node": ">= 5.4.1"
+  },
+  "contributors": [
+    {
+      "name": "vogloblinsky"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manekinekko/angular2-dependencies-graph.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "colors": "1.1.2",
+    "commander": "2.9.0",
+    "dot": "1.0.3",
+    "fs-extra": "0.26.2",
+    "gulp-util": "3.0.7",
+    "opener": "1.4.1",
+    "q": "1.4.1",
+    "typescript": "2.0.0",
+    "viz.js": "1.3.0"
+  },
+  "devDependencies": {
+    "@types/dot": "1.0.29",
+    "@types/typescript": "0.4.29",
+    "@types/chai": "3.4.34",
+    "@types/mocha": "2.2.32",
+    "@types/node": "6.0.39",
+    "chai": "3.5.0",
+    "mocha": "3.1.2"
+  },
+  "gitHead": "e2c33868aeb3197b2932177795c0c05cc9941904",
+  "_id": "angular2-dependencies-graph@1.0.0-alpha.12",
+  "_shasum": "89867412949eff146f2ddea7c35123920e34c0d2",
+  "_from": "angular2-dependencies-graph@>=1.0.0-alpha.12 <2.0.0",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "manekinekko",
+    "email": "maneki.nekko@gmail.com"
+  },
+  "dist": {
+    "shasum": "89867412949eff146f2ddea7c35123920e34c0d2",
+    "tarball": "https://registry.npmjs.org/angular2-dependencies-graph/-/angular2-dependencies-graph-1.0.0-alpha.12.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "manekinekko",
+      "email": "maneki.nekko@gmail.com"
+    },
+    {
+      "name": "vogloblinsky",
+      "email": "vincent.ogloblinsky@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular2-dependencies-graph-1.0.0-alpha.12.tgz_1481404944770_0.33231937093660235"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/angular2-dependencies-graph/-/angular2-dependencies-graph-1.0.0-alpha.12.tgz"
+}

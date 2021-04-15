@@ -1,0 +1,68 @@
+{
+  "name": "@schematics/angular",
+  "version": "0.1.8",
+  "description": "Schematics specific to Angular",
+  "keywords": [
+    "angular",
+    "devkit",
+    "sdk",
+    "Angular DevKit",
+    "blueprints",
+    "code generation",
+    "schematics"
+  ],
+  "schematics": "./collection.json",
+  "dependencies": {
+    "@angular-devkit/core": "0.0.22"
+  },
+  "peerDependencies": {
+    "@angular-devkit/schematics": "0.0.38"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/devkit.git"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": {
+    "name": "Angular Authors"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/devkit/issues"
+  },
+  "homepage": "https://github.com/angular/devkit",
+  "_id": "@schematics/angular@0.1.8",
+  "_npmVersion": "5.5.1",
+  "_nodeVersion": "8.8.1",
+  "_npmUser": {
+    "name": "angular",
+    "email": "angular-core+npm@google.com"
+  },
+  "dist": {
+    "integrity": "sha512-88QrOoS0gQ6BdKulP01dTPmfPwLhvzb4jCcKkp0g8kvzTkIadlORmC9bQtucJI5huPU2bglVfmPgAk2ZwMSLDA==",
+    "shasum": "2c98cda013a2b87ff457a749775b95b3a2475698",
+    "tarball": "https://registry.npmjs.org/@schematics/angular/-/angular-0.1.8.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "schematics",
+      "email": "hans+schematics@hansl.ca"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular-0.1.8.tgz_1511991965812_0.012580621987581253"
+  },
+  "directories": {},
+  "_shasum": "2c98cda013a2b87ff457a749775b95b3a2475698",
+  "_resolved": "https://registry.npmjs.org/@schematics/angular/-/angular-0.1.8.tgz",
+  "_from": "@schematics/angular@>=0.1.8 <0.2.0",
+  "readme": "ERROR: No README data found!"
+}
