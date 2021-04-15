@@ -16,6 +16,15 @@ export const environment = {
   serverUrl: '/api',
   defaultLanguage: 'en-US',
   supportedLanguages: ['en-US'],
+  firebase: {
+    apiKey: 'AIzaSyBpUItBBPU09oZxWowH3-fD2uyrzYwx5qE',
+    authDomain: 'dice-poker-api.firebaseapp.com',
+    projectId: 'dice-poker-api',
+    storageBucket: 'dice-poker-api.appspot.com',
+    messagingSenderId: '546832395191',
+    appId: '1:546832395191:web:d8a562cdb018906db05632',
+    measurementId: 'G-3PCWF8B50T',
+  },
 };
 
 /*
