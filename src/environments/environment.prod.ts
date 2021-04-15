@@ -12,9 +12,10 @@ export const environment = {
   serverUrl: 'https://api.chucknorris.io',
   defaultLanguage: 'en-US',
   supportedLanguages: ['en-US'],
-  firebase: {
+  firebaseConfig: {
     apiKey: 'AIzaSyBpUItBBPU09oZxWowH3-fD2uyrzYwx5qE',
     authDomain: 'dice-poker-api.firebaseapp.com',
+    databaseURL: 'https://dice-poker-api.firebaseio.com',
     projectId: 'dice-poker-api',
     storageBucket: 'dice-poker-api.appspot.com',
     messagingSenderId: '546832395191',

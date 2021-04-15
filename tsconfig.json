@@ -13,13 +13,8 @@
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
     "target": "es2015",
-    "typeRoots": [
-      "node_modules/@types"
-    ],
-    "lib": [
-      "es2018",
-      "dom"
-    ],
+    "typeRoots": ["node_modules/@types"],
+    "lib": ["es2018", "dom"],
     "baseUrl": "./",
     "paths": {
       "@app/*": ["src/app/*"],
@@ -33,6 +28,7 @@
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true,
-    "preserveWhitespaces": true
+    "preserveWhitespaces": true,
+    "strictTemplates": true
   }
 }

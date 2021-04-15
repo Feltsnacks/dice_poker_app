@@ -1,23 +1,98 @@
 <div class="container">
   <mat-card>
-    <p>
+    <!-- <p>
       <img class="logo" src="assets/ngx-rocket-logo.png" alt="angular logo" />
-    </p>
+    </p> -->
     <mat-card-content>
-      <mat-card-title translate>Hello world !</mat-card-title>
+      <mat-card-title translate>Player 1</mat-card-title>
       <mat-card-subtitle>
-        <app-loader [isLoading]="isLoading" size="1.5"></app-loader>
-        <q [hidden]="isLoading">{{ quote }}</q>
+        <!-- <app-loader [isLoading]="isLoading" size="1.5"></app-loader> -->
+        <!-- <q [hidden]="isLoading">{{ quote }}</q> -->
       </mat-card-subtitle>
+
+      <div style="height: 100px">
+        <span *ngFor="let dice of diceArray">
+          <mat-icon
+            #dice1
+            [style.display]="dice.value != 1 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice1.color = dice1.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_one</mat-icon
+          >
+
+          <mat-icon
+            #dice2
+            [style.display]="dice.value != 2 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice2.color = dice2.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_two</mat-icon
+          >
+
+          <mat-icon
+            #dice3
+            [style.display]="dice.value != 3 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice3.color = dice3.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_3</mat-icon
+          >
+
+          <mat-icon
+            #dice4
+            [style.display]="dice.value != 4 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice4.color = dice4.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_4</mat-icon
+          >
+
+          <mat-icon
+            #dice5
+            [style.display]="dice.value != 5 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice5.color = dice5.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_5</mat-icon
+          >
+
+          <mat-icon
+            #dice6
+            [style.display]="dice.value != 6 ? 'none' : 'inline-block'"
+            color="primary"
+            (click)="
+              dice6.color = dice6.color !== 'accent' ? 'accent' : 'primary';
+              dice.selected = dice.selected ? false : true
+            "
+            class="dice"
+            >looks_6</mat-icon
+          >
+        </span>
+
+        <h2>{{ result }}</h2>
+      </div>
+
       <mat-card-actions>
-        <button
-          mat-raised-button
-          angulartics2On="click"
-          angularticsAction="Click button below quote"
-          [angularticsCategory]="quote"
-        >
-          Send an Analytics event
-        </button>
+        <button mat-raised-button *ngIf="gameState === 1" (click)="nextRound()" class="gameButton">Throw 1</button>
+        <button mat-raised-button *ngIf="gameState === 2" (click)="nextRound()" class="gameButton">Throw 2</button>
+        <button mat-raised-button *ngIf="gameState === 3" (click)="nextRound()" class="gameButton">Result</button>
+        <button mat-raised-button *ngIf="gameState === 4" (click)="nextRound()" class="gameButton">Clear</button>
       </mat-card-actions>
     </mat-card-content>
   </mat-card>
